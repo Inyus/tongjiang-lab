@@ -6,7 +6,7 @@ English | [简体中文](README.zh-CN.md)
 
 Try them online: **https://lab.tongjiang.app**
 
-There are 54 lessons so far. Each one is a **single self-contained HTML file** of about 1 MB: double-click to open it, and it works offline, on a projector or on an interactive whiteboard. Every lesson is one 3D world with a live control console, a guiding question and a step-by-step path a teacher can follow from start to finish.
+There are 55 lessons so far. Each one is a **single self-contained HTML file** of about 1 MB: double-click to open it, and it works offline, on a projector or on an interactive whiteboard. Every lesson is one 3D world with a live control console, a guiding question and a step-by-step path a teacher can follow from start to finish.
 
 The lessons follow the Chinese national curriculum standards for senior high school and the People's Education Press (PEP) 2019 textbooks. The lesson interface is currently in Chinese; other languages are planned.
 
@@ -19,7 +19,7 @@ The lessons follow the Chinese national curriculum standards for senior high sch
 
 ## Lessons
 
-### Physics (10)
+### Physics (11)
 
 | Lesson | PEP 2019 textbook | Steps | File |
 |---|---|---|---|
@@ -33,6 +33,7 @@ The lessons follow the Chinese national curriculum standards for senior high sch
 | [Measuring EMF and Internal Resistance](https://lab.tongjiang.app/c/emf-step/) | Required Vol. 3, Ch. 12, Sec. 3 | 9 | [HTML](courses/emf-step.html) |
 | [Magnetic Field of an Electric Current](https://lab.tongjiang.app/c/current-field-step/) | Required Vol. 3, Ch. 13, Sec. 1 | 9 | [HTML](courses/current-field-step.html) |
 | [Brownian Motion and Diffusion](https://lab.tongjiang.app/c/brownian-step/) | Elective Vol. 3, Ch. 1, Sec. 1 | 9 | [HTML](courses/brownian-step.html) |
+| [Alpha Particle Scattering and the Nuclear Model of the Atom](https://lab.tongjiang.app/c/alpha-scatter-step/) | Elective Vol. 3, Ch. 4, Sec. 3 | 9 | [HTML](courses/alpha-scatter-step.html) |
 
 ### Chemistry (25)
 

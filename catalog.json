@@ -1250,6 +1250,30 @@
     "online": "https://lab.tongjiang.app/c/water-cycle-step/"
   },
   {
+    "slug": "alpha-scatter-step",
+    "subject": "phys",
+    "title": "α 粒子散射",
+    "type": "原理与现象",
+    "question": "α 粒子穿过金箔，绝大多数直着过去、极少数几乎被撞回来——原子内部到底长什么样？",
+    "textbook": [
+      "选择性必修第三册 · 第四章 原子结构和波粒二象性 · 第三节 原子的核式结构模型 · α 粒子散射实验"
+    ],
+    "steps": [
+      "认装置",
+      "汤姆孙模型",
+      "数闪光",
+      "拖瞄准距离",
+      "斥力方向",
+      "换靶换能量",
+      "排除两嫌",
+      "十万倍",
+      "考核"
+    ],
+    "file": "courses/alpha-scatter-step.html",
+    "cover": "covers/alpha-scatter-step.webp",
+    "online": "https://lab.tongjiang.app/c/alpha-scatter-step/"
+  },
+  {
     "slug": "circulation-step",
     "subject": "geo",
     "title": "气压带、风带与三圈环流",

@@ -6,7 +6,7 @@
 
 在线使用：**https://lab.tongjiang.app**
 
-目前共 54 门。每门课都是**一个独立的 HTML 文件**，约 1 MB：双击就能打开，断网、投影、电子白板都能用。每门课是一个 3D 世界，配常驻中控台、主线问题和步骤条，老师按「下一步」就能从头讲到尾。
+目前共 55 门。每门课都是**一个独立的 HTML 文件**，约 1 MB：双击就能打开，断网、投影、电子白板都能用。每门课是一个 3D 世界，配常驻中控台、主线问题和步骤条，老师按「下一步」就能从头讲到尾。
 
 内容依据中国普通高中课程标准与人教版（2019）教材编写。课件界面目前是中文，其他语言在计划中。
 
@@ -19,7 +19,7 @@
 
 ## 课程
 
-### 物理（10 门）
+### 物理（11 门）
 
 | 课程 | 教材位置（人教版 2019） | 步数 | 文件 |
 |---|---|---|---|
@@ -33,6 +33,7 @@
 | [测电源电动势和内阻](https://lab.tongjiang.app/c/emf-step/) | 必修第三册 · 第十二章 电能 能量守恒定律 · 第三节 实验：电池电动势和内阻的测量 | 9 | [HTML](courses/emf-step.html) |
 | [电流的磁场](https://lab.tongjiang.app/c/current-field-step/) | 必修第三册 · 第十三章 电磁感应与电磁波初步 · 第一节 磁场 磁感线 | 9 | [HTML](courses/current-field-step.html) |
 | [布朗运动与扩散](https://lab.tongjiang.app/c/brownian-step/) | 选择性必修第三册 · 第一章 分子动理论 · 第一节 分子动理论的基本内容 | 9 | [HTML](courses/brownian-step.html) |
+| [α 粒子散射](https://lab.tongjiang.app/c/alpha-scatter-step/) | 选择性必修第三册 · 第四章 原子结构和波粒二象性 · 第三节 原子的核式结构模型 · α 粒子散射实验 | 9 | [HTML](courses/alpha-scatter-step.html) |
 
 ### 化学（25 门）
 
