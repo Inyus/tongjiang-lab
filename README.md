@@ -1,108 +1,105 @@
-# Tongjiang Lab · 铜匠实验室
+# Tongjiang Lab
+
+English | [简体中文](README.zh-CN.md)
 
 **Free, interactive 3D science lessons for high school — physics, chemistry, biology and geography.**
-免费、可交互的高中科学 3D 实验课件，覆盖物理、化学、生物、地理。
 
-🌐 **Use online / 在线使用：** https://lab.tongjiang.app
+Try them online: **https://lab.tongjiang.app**
 
-54 lessons so far, each a **single self-contained HTML file** (~1 MB): double-click to open, works offline, on projectors and interactive whiteboards. Every lesson is one 3D world with a live control console, a guiding question and a step-by-step path you can teach from start to finish.
+There are 54 lessons so far. Each one is a **single self-contained HTML file** of about 1 MB: double-click to open it, and it works offline, on a projector or on an interactive whiteboard. Every lesson is one 3D world with a live control console, a guiding question and a step-by-step path a teacher can follow from start to finish.
 
-目前 54 门，每门课都是**一个独立的 HTML 文件**（约 1 MB）：双击即开，断网、投影、电子白板都能用。每门课是一个 3D 世界，配常驻中控台、主线问题和步骤条，按「下一步」就能从头讲到尾。
+The lessons follow the Chinese national curriculum standards for senior high school and the People's Education Press (PEP) 2019 textbooks. The lesson interface is currently in Chinese; other languages are planned.
 
-Content follows the Chinese national high-school curriculum standards and the People's Education Press (PEP, 2019) textbooks. The interface is in Chinese; more languages are planned.
-内容依据中国普通高中课程标准与人教版（2019）教材编写。界面目前为中文，其他语言在计划中。
+## How to use
 
-## How to use / 怎么用
-
-- **Online**: open any lesson at https://lab.tongjiang.app
+- **Online**: open any lesson at https://lab.tongjiang.app.
 - **Offline**: download a file from [`courses/`](courses/) and open it in Chrome or Edge.
 - **Embed**: `<iframe src="https://lab.tongjiang.app/<slug>" width="100%" style="aspect-ratio:16/9;border:0" allow="fullscreen"></iframe>`
 - **Data**: [`catalog.json`](catalog.json) lists every lesson with its textbook location and steps.
 
-## Lessons / 课程
+## Lessons
 
-### 物理 Physics（10）
+### Physics (10)
 
-| 课程 Course | 教材位置 Textbook (PEP 2019) | 步 Steps | 文件 File |
+| Lesson | PEP 2019 textbook | Steps | File |
 |---|---|---|---|
-| [光电效应](https://lab.tongjiang.app/c/photoelectric-step/) | 选择性必修第三册 · 第四章 原子结构和波粒二象性 · 第二节 光电效应 | 9 | [HTML](courses/photoelectric-step.html) |
-| [观察电容器的充放电](https://lab.tongjiang.app/c/capacitor-step/) | 必修第三册 · 第十章 静电场中的能量 · 第四节 电容器的电容 · 学生必做实验：观察电容器的充放电 | 9 | [HTML](courses/capacitor-step.html) |
-| [实验：探究加速度与力、质量的关系](https://lab.tongjiang.app/c/accel-force-step/) | 必修第一册 · 第四章 运动和力的关系 · 第二节 实验：探究加速度与力、质量的关系 | 8 | [HTML](courses/accel-force-step.html) |
-| [实验：验证机械能守恒定律](https://lab.tongjiang.app/c/energy-step/) | 必修第二册 · 第八章 机械能守恒定律 · 第五节 实验：验证机械能守恒定律 | 8 | [HTML](courses/energy-step.html) |
-| [实验：探究平抛运动的特点](https://lab.tongjiang.app/c/projectile-step/) | 必修第二册 · 第五章 抛体运动 · 第三节 实验：探究平抛运动的特点 | 9 | [HTML](courses/projectile-step.html) |
-| [探究向心力大小与半径、角速度、质量的关系](https://lab.tongjiang.app/c/centripetal-step/) | 必修第二册 · 第六章 圆周运动 · 第二节 向心力 · 实验：探究向心力大小与半径、角速度、质量的关系 | 8 | [HTML](courses/centripetal-step.html) |
-| [自感与涡流](https://lab.tongjiang.app/c/self-induction-step/) | 选择性必修第二册 · 第二章 电磁感应 · 第四节 互感和自感 | 9 | [HTML](courses/self-induction-step.html) |
-| [测电源电动势和内阻](https://lab.tongjiang.app/c/emf-step/) | 必修第三册 · 第十二章 电能 能量守恒定律 · 第三节 实验：电池电动势和内阻的测量 | 9 | [HTML](courses/emf-step.html) |
-| [电流的磁场](https://lab.tongjiang.app/c/current-field-step/) | 必修第三册 · 第十三章 电磁感应与电磁波初步 · 第一节 磁场 磁感线 | 9 | [HTML](courses/current-field-step.html) |
-| [布朗运动与扩散](https://lab.tongjiang.app/c/brownian-step/) | 选择性必修第三册 · 第一章 分子动理论 · 第一节 分子动理论的基本内容 | 9 | [HTML](courses/brownian-step.html) |
+| [The Photoelectric Effect](https://lab.tongjiang.app/c/photoelectric-step/) | Elective Vol. 3, Ch. 4, Sec. 2 | 9 | [HTML](courses/photoelectric-step.html) |
+| [Observing Capacitor Charging and Discharging](https://lab.tongjiang.app/c/capacitor-step/) | Required Vol. 3, Ch. 10, Sec. 4 | 9 | [HTML](courses/capacitor-step.html) |
+| [Experiment: Acceleration vs. Force and Mass](https://lab.tongjiang.app/c/accel-force-step/) | Required Vol. 1, Ch. 4, Sec. 2 | 8 | [HTML](courses/accel-force-step.html) |
+| [Experiment: Verifying Conservation of Mechanical Energy](https://lab.tongjiang.app/c/energy-step/) | Required Vol. 2, Ch. 8, Sec. 5 | 8 | [HTML](courses/energy-step.html) |
+| [Experiment: Exploring Projectile Motion](https://lab.tongjiang.app/c/projectile-step/) | Required Vol. 2, Ch. 5, Sec. 3 | 9 | [HTML](courses/projectile-step.html) |
+| [Centripetal Force vs. Radius, Angular Velocity and Mass](https://lab.tongjiang.app/c/centripetal-step/) | Required Vol. 2, Ch. 6, Sec. 2 | 8 | [HTML](courses/centripetal-step.html) |
+| [Self-Induction and Eddy Currents](https://lab.tongjiang.app/c/self-induction-step/) | Elective Vol. 2, Ch. 2, Sec. 4 | 9 | [HTML](courses/self-induction-step.html) |
+| [Measuring EMF and Internal Resistance](https://lab.tongjiang.app/c/emf-step/) | Required Vol. 3, Ch. 12, Sec. 3 | 9 | [HTML](courses/emf-step.html) |
+| [Magnetic Field of an Electric Current](https://lab.tongjiang.app/c/current-field-step/) | Required Vol. 3, Ch. 13, Sec. 1 | 9 | [HTML](courses/current-field-step.html) |
+| [Brownian Motion and Diffusion](https://lab.tongjiang.app/c/brownian-step/) | Elective Vol. 3, Ch. 1, Sec. 1 | 9 | [HTML](courses/brownian-step.html) |
 
-### 化学 Chemistry（25）
+### Chemistry (25)
 
-| 课程 Course | 教材位置 Textbook (PEP 2019) | 步 Steps | 文件 File |
+| Lesson | PEP 2019 textbook | Steps | File |
 |---|---|---|---|
-| [合成氨工业](https://lab.tongjiang.app/c/haber-step/) | 选择性必修1 化学反应原理 · 第二章 化学反应速率与化学平衡 · 第四节 化学反应的调控 | 7 | [HTML](courses/haber-step.html) |
-| [化学反应速率的影响因素](https://lab.tongjiang.app/c/rate-step/) | 必修第二册 · 第六章 化学反应与能量 · 实验活动7 化学反应速率的影响因素 | 8 | [HTML](courses/rate-step.html) |
-| [搭建球棍模型认识有机化合物分子结构](https://lab.tongjiang.app/c/ball-stick-step/) | 必修第二册 · 第七章 有机化合物 · 实验活动8 搭建球棍模型认识有机化合物分子结构 | 9 | [HTML](courses/ball-stick-step.html) |
-| [强酸与强碱的中和滴定](https://lab.tongjiang.app/c/titration-step/) | 选择性必修1 化学反应原理 · 第三章 水溶液中的离子反应与平衡 · 第二节 水的电离和溶液的pH · 酸碱中和滴定 · 实验活动2 | 9 | [HTML](courses/titration-step.html) |
-| [氯气的制备及性质](https://lab.tongjiang.app/c/chlorine-step/) | 必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第二节 氯及其化合物 | 9 | [HTML](courses/chlorine-step.html) |
-| [高炉炼铁](https://lab.tongjiang.app/c/blast-furnace-step/) | 必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 金属矿物的开发利用 | 8 | [HTML](courses/blast-furnace-step.html) |
-| [金属冶炼：电解熔融盐 + 铝热](https://lab.tongjiang.app/c/smelting-step/) | 必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 金属矿物的开发利用 | 8 | [HTML](courses/smelting-step.html) |
-| [煤的综合利用：以煤的气化为主线](https://lab.tongjiang.app/c/coal-gas-step/) | 必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 煤的综合利用 | 8 | [HTML](courses/coal-gas-step.html) |
-| [接触法制硫酸](https://lab.tongjiang.app/c/sulfuric-step/) | 必修第二册 · 第五章 化工生产中的重要非金属元素 · 第一节 硫及其化合物 · 工业制硫酸 | 7 | [HTML](courses/sulfuric-step.html) |
-| [盐类的水解及其应用](https://lab.tongjiang.app/c/hydrolysis-step/) | 选择性必修1 化学反应原理 · 第三章 水溶液中的离子反应与平衡 · 第三节 盐类的水解 · 实验活动3 盐类水解的应用 | 9 | [HTML](courses/hydrolysis-step.html) |
-| [工业制水泥](https://lab.tongjiang.app/c/cement-step/) | 必修第二册 · 第五章 化工生产中的重要非金属元素 · 第三节 无机非金属材料 | 8 | [HTML](courses/cement-step.html) |
-| [铁及其化合物：铁的价态转化](https://lab.tongjiang.app/c/iron-step/) | 必修第一册 · 第三章 铁 金属材料 · 第一节 铁及其化合物 | 9 | [HTML](courses/iron-step.html) |
-| [电解原理：电解氯化铜溶液与饱和食盐水](https://lab.tongjiang.app/c/electrolysis-step/) | 选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第二节 电解池 · 电解氯化铜溶液 · 电解饱和食盐水 | 9 | [HTML](courses/electrolysis-step.html) |
-| [氨的制备与性质（含喷泉实验）](https://lab.tongjiang.app/c/ammonia-step/) | 必修第二册 · 第五章 化工生产中的重要非金属元素 · 第二节 氮及其化合物 · 氨和铵盐 | 9 | [HTML](courses/ammonia-step.html) |
-| [探究影响化学平衡移动的因素](https://lab.tongjiang.app/c/equilibrium-step/) | 选择性必修1 化学反应原理 · 第二章 化学反应速率与化学平衡 · 实验活动1 探究影响化学平衡移动的因素 | 9 | [HTML](courses/equilibrium-step.html) |
-| [焰色试验与原子光谱](https://lab.tongjiang.app/c/flame-step/) | 必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 焰色试验 | 8 | [HTML](courses/flame-step.html) |
-| [原电池：单液到双液](https://lab.tongjiang.app/c/galvanic-step/) | 必修第二册 · 第六章 化学反应与能量 · 第一节 化学反应与能量变化 · 实验活动6 化学能转化成电能 | 9 | [HTML](courses/galvanic-step.html) |
-| [电解质的电离与溶液导电性、离子反应的实质](https://lab.tongjiang.app/c/conductivity-step/) | 必修第一册 · 第一章 物质及其变化 · 第二节 离子反应 | 9 | [HTML](courses/conductivity-step.html) |
-| [浓、稀硝酸的性质与氮氧化物的转化](https://lab.tongjiang.app/c/nitric-lab-step/) | 必修第二册 · 第五章 化工生产中的重要非金属元素 · 第二节 氮及其化合物 · 一氧化氮和二氧化氮、硝酸 | 9 | [HTML](courses/nitric-lab-step.html) |
-| [海水提溴：空气吹出法](https://lab.tongjiang.app/c/bromine-step/) | 必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 海水资源的开发利用 | 7 | [HTML](courses/bromine-step.html) |
-| [金属钠的性质（含钠着火扑救）](https://lab.tongjiang.app/c/sodium-step/) | 必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 活泼的金属单质——钠 | 9 | [HTML](courses/sodium-step.html) |
-| [硫、二氧化硫、浓硫酸的性质与不同价态含硫物质的转化](https://lab.tongjiang.app/c/sulfur-step/) | 必修第二册 · 第五章 化工生产中的重要非金属元素 · 第一节 硫及其化合物 | 9 | [HTML](courses/sulfur-step.html) |
-| [吸氧腐蚀与暖贴的设计](https://lab.tongjiang.app/c/corrosion-step/) | 选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第三节 金属的腐蚀与防护 · 研究与实践：暖贴的设计与制作 | 9 | [HTML](courses/corrosion-step.html) |
-| [氯碱工业](https://lab.tongjiang.app/c/chlor-alkali-step/) | 选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第二节 电解池 · 电解饱和食盐水 | 8 | [HTML](courses/chlor-alkali-step.html) |
-| [侯氏制碱](https://lab.tongjiang.app/c/hou-soda-step/) | 必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 情境素材：侯氏制碱法 | 8 | [HTML](courses/hou-soda-step.html) |
+| [Industrial Ammonia Synthesis (Haber Process)](https://lab.tongjiang.app/c/haber-step/) | Elective Vol. 1, Ch. 2, Sec. 4 | 7 | [HTML](courses/haber-step.html) |
+| [Factors Affecting Reaction Rate](https://lab.tongjiang.app/c/rate-step/) | Required Vol. 2, Ch. 6 | 8 | [HTML](courses/rate-step.html) |
+| [Ball-and-Stick Models of Organic Molecules](https://lab.tongjiang.app/c/ball-stick-step/) | Required Vol. 2, Ch. 7 | 9 | [HTML](courses/ball-stick-step.html) |
+| [Strong Acid–Strong Base Titration](https://lab.tongjiang.app/c/titration-step/) | Elective Vol. 1, Ch. 3, Sec. 2 | 9 | [HTML](courses/titration-step.html) |
+| [Preparation and Properties of Chlorine](https://lab.tongjiang.app/c/chlorine-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 9 | [HTML](courses/chlorine-step.html) |
+| [Ironmaking in a Blast Furnace](https://lab.tongjiang.app/c/blast-furnace-step/) | Required Vol. 2, Ch. 8, Sec. 1 | 8 | [HTML](courses/blast-furnace-step.html) |
+| [Metal Smelting: Molten-Salt Electrolysis and the Thermite Reaction](https://lab.tongjiang.app/c/smelting-step/) | Required Vol. 2, Ch. 8, Sec. 1 | 8 | [HTML](courses/smelting-step.html) |
+| [Coal Utilization: Coal Gasification](https://lab.tongjiang.app/c/coal-gas-step/) | Required Vol. 2, Ch. 8, Sec. 1 | 8 | [HTML](courses/coal-gas-step.html) |
+| [Sulfuric Acid by the Contact Process](https://lab.tongjiang.app/c/sulfuric-step/) | Required Vol. 2, Ch. 5, Sec. 1 | 7 | [HTML](courses/sulfuric-step.html) |
+| [Hydrolysis of Salts and Its Applications](https://lab.tongjiang.app/c/hydrolysis-step/) | Elective Vol. 1, Ch. 3, Sec. 3 | 9 | [HTML](courses/hydrolysis-step.html) |
+| [Industrial Cement Production](https://lab.tongjiang.app/c/cement-step/) | Required Vol. 2, Ch. 5, Sec. 3 | 8 | [HTML](courses/cement-step.html) |
+| [Iron and Its Compounds: Changing Oxidation States](https://lab.tongjiang.app/c/iron-step/) | Required Vol. 1, Ch. 3, Sec. 1 | 9 | [HTML](courses/iron-step.html) |
+| [Principles of Electrolysis: CuCl₂ Solution and Brine](https://lab.tongjiang.app/c/electrolysis-step/) | Elective Vol. 1, Ch. 4, Sec. 2 | 9 | [HTML](courses/electrolysis-step.html) |
+| [Preparation and Properties of Ammonia (Fountain Experiment)](https://lab.tongjiang.app/c/ammonia-step/) | Required Vol. 2, Ch. 5, Sec. 2 | 9 | [HTML](courses/ammonia-step.html) |
+| [Factors That Shift Chemical Equilibrium](https://lab.tongjiang.app/c/equilibrium-step/) | Elective Vol. 1, Ch. 2 | 9 | [HTML](courses/equilibrium-step.html) |
+| [Flame Tests and Atomic Spectra](https://lab.tongjiang.app/c/flame-step/) | Required Vol. 1, Ch. 2, Sec. 1 | 8 | [HTML](courses/flame-step.html) |
+| [Galvanic Cells: From One Electrolyte to Two](https://lab.tongjiang.app/c/galvanic-step/) | Required Vol. 2, Ch. 6, Sec. 1 | 9 | [HTML](courses/galvanic-step.html) |
+| [Ionization, Solution Conductivity and Ionic Reactions](https://lab.tongjiang.app/c/conductivity-step/) | Required Vol. 1, Ch. 1, Sec. 2 | 9 | [HTML](courses/conductivity-step.html) |
+| [Concentrated and Dilute Nitric Acid; Nitrogen Oxides](https://lab.tongjiang.app/c/nitric-lab-step/) | Required Vol. 2, Ch. 5, Sec. 2 | 9 | [HTML](courses/nitric-lab-step.html) |
+| [Bromine from Seawater: The Air Blow-Out Process](https://lab.tongjiang.app/c/bromine-step/) | Required Vol. 2, Ch. 8, Sec. 1 | 7 | [HTML](courses/bromine-step.html) |
+| [Properties of Sodium (and Putting Out Sodium Fires)](https://lab.tongjiang.app/c/sodium-step/) | Required Vol. 1, Ch. 2, Sec. 1 | 9 | [HTML](courses/sodium-step.html) |
+| [Sulfur, SO₂ and Sulfuric Acid: Converting Between Oxidation States](https://lab.tongjiang.app/c/sulfur-step/) | Required Vol. 2, Ch. 5, Sec. 1 | 9 | [HTML](courses/sulfur-step.html) |
+| [Oxygen-Absorption Corrosion and Designing a Hand Warmer](https://lab.tongjiang.app/c/corrosion-step/) | Elective Vol. 1, Ch. 4, Sec. 3 | 9 | [HTML](courses/corrosion-step.html) |
+| [The Chlor-Alkali Industry](https://lab.tongjiang.app/c/chlor-alkali-step/) | Elective Vol. 1, Ch. 4, Sec. 2 | 8 | [HTML](courses/chlor-alkali-step.html) |
+| [Hou's Soda Process](https://lab.tongjiang.app/c/hou-soda-step/) | Required Vol. 1, Ch. 2, Sec. 1 | 8 | [HTML](courses/hou-soda-step.html) |
 
-### 生物 Biology（5）
+### Biology (5)
 
-| 课程 Course | 教材位置 Textbook (PEP 2019) | 步 Steps | 文件 File |
+| Lesson | PEP 2019 textbook | Steps | File |
 |---|---|---|---|
-| [植物细胞的吸水和失水](https://lab.tongjiang.app/c/plasmolysis-step/) | 必修1 分子与细胞 · 第4章 细胞的物质输入和输出 · 第1节 被动运输 · 探究·实践：探究植物细胞的吸水和失水 | 8 | [HTML](courses/plasmolysis-step.html) |
-| [物质跨膜运输](https://lab.tongjiang.app/c/transport-step/) | 必修1 分子与细胞 · 第4章 细胞的物质输入和输出 | 8 | [HTML](courses/transport-step.html) |
-| [神经冲动的产生和传导](https://lab.tongjiang.app/c/impulse-step/) | 选择性必修1 稳态与调节 · 第2章 神经调节 · 第3节 神经冲动的产生和传导 | 9 | [HTML](courses/impulse-step.html) |
-| [观察根尖分生区组织细胞的有丝分裂](https://lab.tongjiang.app/c/mitosis-step/) | 必修1 分子与细胞 · 第6章 细胞的生命历程 · 第1节 细胞的增殖 · 探究·实践：观察根尖分生区组织细胞的有丝分裂 | 9 | [HTML](courses/mitosis-step.html) |
-| [影响酶活性的条件](https://lab.tongjiang.app/c/enzyme-step/) | 必修1 分子与细胞 · 第5章 细胞的能量供应和利用 · 第1节 降低化学反应活化能的酶 · 探究·实践：影响酶活性的条件 | 8 | [HTML](courses/enzyme-step.html) |
+| [Water Uptake and Loss in Plant Cells](https://lab.tongjiang.app/c/plasmolysis-step/) | Required Vol. 1, Ch. 4, Sec. 1 | 8 | [HTML](courses/plasmolysis-step.html) |
+| [Transport Across Cell Membranes](https://lab.tongjiang.app/c/transport-step/) | Required Vol. 1, Ch. 4 | 8 | [HTML](courses/transport-step.html) |
+| [Generation and Conduction of Nerve Impulses](https://lab.tongjiang.app/c/impulse-step/) | Elective Vol. 1, Ch. 2, Sec. 3 | 9 | [HTML](courses/impulse-step.html) |
+| [Observing Mitosis in Root-Tip Meristem Cells](https://lab.tongjiang.app/c/mitosis-step/) | Required Vol. 1, Ch. 6, Sec. 1 | 9 | [HTML](courses/mitosis-step.html) |
+| [Conditions Affecting Enzyme Activity](https://lab.tongjiang.app/c/enzyme-step/) | Required Vol. 1, Ch. 5, Sec. 1 | 8 | [HTML](courses/enzyme-step.html) |
 
-### 地理 Geography（14）
+### Geography (14)
 
-| 课程 Course | 教材位置 Textbook (PEP 2019) | 步 Steps | 文件 File |
+| Lesson | PEP 2019 textbook | Steps | File |
 |---|---|---|---|
-| [河流地貌的发育](https://lab.tongjiang.app/c/river-step/) | 选择性必修1 自然地理基础 · 第二章 地表形态的塑造 · 第三节 河流地貌的发育 | 8 | [HTML](courses/river-step.html) |
-| [太阳直射点的回归运动与四季、五带](https://lab.tongjiang.app/c/insolation-step/) | 选择性必修1 自然地理基础 · 第一章 地球的运动 · 第二节 地球运动的地理意义 · 太阳直射点的回归运动 · 四季和五带 | 9 | [HTML](courses/insolation-step.html) |
-| [世界洋流的分布规律与影响](https://lab.tongjiang.app/c/currents-step/) | 选择性必修1 自然地理基础 · 第四章 水的运动 · 第二节 洋流 | 9 | [HTML](courses/currents-step.html) |
-| [海—气相互作用与厄尔尼诺、拉尼娜](https://lab.tongjiang.app/c/enso-step/) | 选择性必修1 自然地理基础 · 第四章 水的运动 · 第三节 海—气相互作用 | 7 | [HTML](courses/enso-step.html) |
-| [大气受热过程](https://lab.tongjiang.app/c/heating-step/) | 必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 大气受热过程 | 9 | [HTML](courses/heating-step.html) |
-| [喀斯特地貌的形成与识别](https://lab.tongjiang.app/c/karst-step/) | 必修第一册 · 第四章 地貌 · 第一节 常见地貌类型 · 喀斯特地貌 | 7 | [HTML](courses/karst-step.html) |
-| [全球气候变化与国家安全](https://lab.tongjiang.app/c/carbon-step/) | 选择性必修3 资源、环境与国家安全 · 第三章 环境安全与国家安全 · 第四节 全球气候变化与国家安全 | 8 | [HTML](courses/carbon-step.html) |
-| [构造地貌的形成](https://lab.tongjiang.app/c/tectonic-step/) | 选择性必修1 自然地理基础 · 第二章 地表形态的塑造 · 第二节 构造地貌的形成 | 6 | [HTML](courses/tectonic-step.html) |
-| [地球运动的地理意义](https://lab.tongjiang.app/c/earth-motion-step/) | 选择性必修1 自然地理基础 · 第一章 地球的运动 · 第二节 地球运动的地理意义 | 9 | [HTML](courses/earth-motion-step.html) |
-| [土壤的主要形成因素与土壤剖面观察](https://lab.tongjiang.app/c/soil-step/) | 必修第一册 · 第五章 植被与土壤 · 第二节 土壤 | 8 | [HTML](courses/soil-step.html) |
-| [大气热力环流](https://lab.tongjiang.app/c/thermal-step/) | 必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 热力环流 | 9 | [HTML](courses/thermal-step.html) |
-| [大气的水平运动——风](https://lab.tongjiang.app/c/wind-step/) | 必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 大气的水平运动——风 | 8 | [HTML](courses/wind-step.html) |
-| [水循环的过程与地理意义](https://lab.tongjiang.app/c/water-cycle-step/) | 必修第一册 · 第三章 地球上的水 · 第一节 水循环 | 9 | [HTML](courses/water-cycle-step.html) |
-| [气压带、风带与三圈环流](https://lab.tongjiang.app/c/circulation-step/) | 选择性必修1 自然地理基础 · 第三章 大气的运动 · 第二节 气压带和风带 | 7 | [HTML](courses/circulation-step.html) |
+| [Development of River Landforms](https://lab.tongjiang.app/c/river-step/) | Elective Vol. 1, Ch. 2, Sec. 3 | 8 | [HTML](courses/river-step.html) |
+| [Migration of the Subsolar Point: Seasons and Climate Zones](https://lab.tongjiang.app/c/insolation-step/) | Elective Vol. 1, Ch. 1, Sec. 2 | 9 | [HTML](courses/insolation-step.html) |
+| [World Ocean Currents: Patterns and Effects](https://lab.tongjiang.app/c/currents-step/) | Elective Vol. 1, Ch. 4, Sec. 2 | 9 | [HTML](courses/currents-step.html) |
+| [Ocean–Atmosphere Interaction: El Niño and La Niña](https://lab.tongjiang.app/c/enso-step/) | Elective Vol. 1, Ch. 4, Sec. 3 | 7 | [HTML](courses/enso-step.html) |
+| [How the Atmosphere Is Heated](https://lab.tongjiang.app/c/heating-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 9 | [HTML](courses/heating-step.html) |
+| [Formation and Recognition of Karst Landforms](https://lab.tongjiang.app/c/karst-step/) | Required Vol. 1, Ch. 4, Sec. 1 | 7 | [HTML](courses/karst-step.html) |
+| [Global Climate Change and National Security](https://lab.tongjiang.app/c/carbon-step/) | Elective Vol. 3, Ch. 3, Sec. 4 | 8 | [HTML](courses/carbon-step.html) |
+| [Formation of Tectonic Landforms](https://lab.tongjiang.app/c/tectonic-step/) | Elective Vol. 1, Ch. 2, Sec. 2 | 6 | [HTML](courses/tectonic-step.html) |
+| [Geographic Significance of Earth's Motions](https://lab.tongjiang.app/c/earth-motion-step/) | Elective Vol. 1, Ch. 1, Sec. 2 | 9 | [HTML](courses/earth-motion-step.html) |
+| [Soil-Forming Factors and Soil Profiles](https://lab.tongjiang.app/c/soil-step/) | Required Vol. 1, Ch. 5, Sec. 2 | 8 | [HTML](courses/soil-step.html) |
+| [Thermal Circulation](https://lab.tongjiang.app/c/thermal-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 9 | [HTML](courses/thermal-step.html) |
+| [Horizontal Motion of the Atmosphere: Wind](https://lab.tongjiang.app/c/wind-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 8 | [HTML](courses/wind-step.html) |
+| [The Water Cycle and Its Geographic Significance](https://lab.tongjiang.app/c/water-cycle-step/) | Required Vol. 1, Ch. 3, Sec. 1 | 9 | [HTML](courses/water-cycle-step.html) |
+| [Pressure Belts, Wind Belts and the Three-Cell Circulation](https://lab.tongjiang.app/c/circulation-step/) | Elective Vol. 1, Ch. 3, Sec. 2 | 7 | [HTML](courses/circulation-step.html) |
 
-## License / 许可
+## License
 
-- Lessons, covers and catalog: **[CC BY-NC 4.0](LICENSE)** — free to use, share and adapt for non-commercial purposes, with attribution to “Tongjiang Lab / 铜匠实验室 (https://lab.tongjiang.app)”.
-  课件、封面与目录按 **CC BY-NC 4.0** 授权：可免费使用、分享和修改，须署名「铜匠实验室」，不得用于商业用途。
-- Third-party code bundled inside the lessons (three.js, MIT) keeps its own license — see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-- Not affiliated with People's Education Press. 与人民教育出版社无隶属关系。
+- Lessons, covers and catalog are licensed under **[CC BY-NC 4.0](LICENSE)**. You may use, share and adapt them for non-commercial purposes, with credit to “Tongjiang Lab (https://lab.tongjiang.app)”.
+- Third-party code bundled in the lessons (three.js, MIT) keeps its own license. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+- Not affiliated with People's Education Press.
 
-## Author / 作者
+## Author
 
-**铜匠十点睡觉** — 3D visualization for education, digital twins and factory demos.
-X: [@CopperForgeAI](https://x.com/CopperForgeAI) · Found an error? Open an issue or DM on X. 发现错误欢迎提 Issue 或在 X 私信。
+**Tongjiang (铜匠十点睡觉)** builds 3D visualizations for education, digital twins and factory demos.
+Follow on X: [@CopperForgeAI](https://x.com/CopperForgeAI). Found a mistake? Open an issue or send a DM on X.
