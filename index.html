@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Per què? · Lliçons 3D interactives de ciència</title>
+<meta name="description" content="Lliçons 3D interactives i gratuïtes de física, química, biologia i geografia, traduïdes al català. Obertes i educatives.">
+<style>
+:root{--bg:#faf7f0;--ink:#1d2a24;--mut:#5b6a62;--card:#fff;--line:#e3ddcf;--acc:#2f7a56;--acc2:#e8f1ec}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header,main,footer{max-width:1100px;margin:0 auto;padding:0 20px}
+header{padding-top:40px}
+h1{font-size:2.4rem;margin:0 0 6px}
+.lead{color:var(--mut);max-width:60ch;margin:0 0 20px}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 24px}
+.filters button{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:8px 14px;border-radius:999px;font:inherit;cursor:pointer}
+.filters button[aria-pressed=true]{background:var(--acc);color:#fff;border-color:var(--acc)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;padding:0;list-style:none;margin:0 0 40px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;height:100%}
+.card a{color:inherit;text-decoration:none;display:flex;flex-direction:column;height:100%}
+.card a:focus-visible{outline:3px solid var(--acc);outline-offset:-3px}
+.card img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;background:var(--acc2);flex:none}
+.card .b{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.tag{font-size:.78rem;color:var(--acc);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.card h2{font-size:1.05rem;margin:0}
+.card p{margin:0;color:var(--mut);font-size:.92rem}
+.meta{margin-top:auto;font-size:.82rem;color:var(--mut)}
+footer{padding:24px 20px 48px;color:var(--mut);font-size:.9rem;border-top:1px solid var(--line)}
+footer a{color:var(--acc)}
+.empty{color:var(--mut)}
+</style>
+</head>
+<body>
+<header>
+<h1>Per què?</h1>
+<p class="lead">Lliçons 3D interactives de física, química, biologia i geografia. Cada lliçó comença amb una pregunta i et guia pas a pas. Gratuïtes, obertes i sense registre.</p>
+<p class="lead" id="req" style="font-size:.95em;opacity:.9"><strong>Per fer els experiments, fes servir un ordinador amb una finestra d'almenys 1024 px d'amplada.</strong> En mòbils i pantalles estretes les lliçons s'obren, però l'experiència no està adaptada.</p>
+<div class="filters" role="group" aria-label="Filtra per matèria" id="filters"></div>
+</header>
+<main>
+<ul class="grid" id="grid"></ul>
+<p class="empty" id="empty" hidden>No s'ha pogut carregar el catàleg. Obre directament una lliçó des de la carpeta <a href="courses/">courses</a>.</p>
+</main>
+<footer>
+<p>Traducció al català de <a href="https://github.com/smithjohn78390/tongjiang-lab">Tongjiang Lab (铜匠实验室)</a>, d'on provenen les lliçons i el catàleg. Llicència <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>: es poden compartir i adaptar només per a usos no comercials, amb atribució i indicant els canvis. Aquesta versió tradueix els textos al català, afegeix aquest portal i incorpora esmenes de contingut i d'avaluació, documentades a CANVIS_D_ORIGEN.md. Les lliçons inclouen <a href="https://threejs.org">three.js</a> (llicència MIT). Codi i registre de canvis: <a href="https://github.com/Inyus/tongjiang-lab">Inyus/tongjiang-lab</a>.</p>
+</footer>
+<script>
+const SUBJ={all:'Totes',phys:'Física',chem:'Química',bio:'Biologia',geo:'Geografia'};
+const grid=document.getElementById('grid'),fil=document.getElementById('filters'),empty=document.getElementById('empty');
+let data=[],cur='all';
+function el(t,c,x){const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function render(){
+  grid.replaceChildren();
+  data.filter(d=>cur==='all'||d.subject===cur).forEach(d=>{
+    const li=el('li'),card=el('div','card'),a=el('a');a.href=d.file;
+    const img=el('img');img.src=d.cover;img.alt='';img.loading='lazy';img.width=800;img.height=450;
+    const b=el('div','b');
+    b.append(el('span','tag',SUBJ[d.subject]||''),el('h2',null,d.title),el('p',null,d.question),el('span','meta',(d.steps||[]).length+' passos · '+d.type));
+    a.append(img,b);card.append(a);li.append(card);grid.append(li);
+  });
+}
+function filters(){
+  fil.replaceChildren();
+  Object.keys(SUBJ).forEach(k=>{
+    const n=k==='all'?data.length:data.filter(d=>d.subject===k).length;
+    if(!n)return;
+    const btn=el('button',null,SUBJ[k]+' ('+n+')');btn.type='button';btn.setAttribute('aria-pressed',String(k===cur));
+    btn.onclick=()=>{cur=k;filters();render()};fil.append(btn);
+  });
+}
+fetch('catalog.json').then(r=>{if(!r.ok)throw 0;return r.json()}).then(j=>{data=j;filters();render()}).catch(()=>{empty.hidden=false});
+</script>
+</body>
+</html>

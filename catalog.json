@@ -1,1274 +1,1274 @@
 [
-  {
-    "slug": "haber-step",
-    "subject": "chem",
-    "title": "合成氨工业",
-    "type": "工业流程",
-    "question": "怎样把空气里的氮又快、又多、又省地变成氨？",
-    "textbook": [
-      "选择性必修1 化学反应原理 · 第二章 化学反应速率与化学平衡 · 第四节 化学反应的调控",
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第二节 氮及其化合物"
-    ],
-    "steps": [
-      "为什么建厂",
-      "为什么净化",
-      "为什么加压",
-      "为什么高温",
-      "塔内什么样",
-      "为什么要循环",
-      "考核 · 当班长"
-    ],
-    "file": "courses/haber-step.html",
-    "cover": "covers/haber-step.webp",
-    "online": "https://lab.tongjiang.app/c/haber-step/"
-  },
-  {
-    "slug": "river-step",
-    "subject": "geo",
-    "title": "河流地貌的发育",
-    "type": "原理与现象",
-    "question": "长江镇江段的岸线为什么持续向北推移？",
-    "textbook": [
-      "选择性必修1 自然地理基础 · 第二章 地表形态的塑造 · 第三节 河流地貌的发育"
-    ],
-    "steps": [
-      "认识沙盘",
-      "山区V形谷",
-      "河谷剖面",
-      "冲积扇",
-      "凹岸凸岸",
-      "河漫滩",
-      "三角洲",
-      "考核：汛期来了"
-    ],
-    "file": "courses/river-step.html",
-    "cover": "covers/river-step.webp",
-    "online": "https://lab.tongjiang.app/c/river-step/"
-  },
-  {
-    "slug": "rate-step",
-    "subject": "chem",
-    "title": "化学反应速率的影响因素",
-    "type": "原理与现象",
-    "question": "同样两个反应，为什么有的几秒就完、有的等半天？快慢到底由什么决定？",
-    "textbook": [
-      "必修第二册 · 第六章 化学反应与能量 · 实验活动7 化学反应速率的影响因素",
-      "选择性必修1 化学反应原理 · 第二章 化学反应速率与化学平衡 · 第一节 化学反应速率"
-    ],
-    "steps": [
-      "认识实验台",
-      "浓度",
-      "温度",
-      "催化剂",
-      "定量测速率",
-      "看进去",
-      "误差与错误操作",
-      "考核 · 当实验员"
-    ],
-    "file": "courses/rate-step.html",
-    "cover": "covers/rate-step.webp",
-    "online": "https://lab.tongjiang.app/c/rate-step/"
-  },
-  {
-    "slug": "insolation-step",
-    "subject": "geo",
-    "title": "太阳直射点的回归运动与四季、五带",
-    "type": "原理与现象",
-    "question": "学校所在地的正午太阳高度和正午太阳方向，一年里为什么有规律地变化？",
-    "textbook": [
-      "选择性必修1 自然地理基础 · 第一章 地球的运动 · 第二节 地球运动的地理意义 · 太阳直射点的回归运动 · 四季和五带"
-    ],
-    "steps": [
-      "黄赤交角",
-      "回归运动",
-      "正午高度",
-      "纬度分布",
-      "年内变化",
-      "正午方向",
-      "四季",
-      "五带",
-      "考核 · 点带"
-    ],
-    "file": "courses/insolation-step.html",
-    "cover": "covers/insolation-step.webp",
-    "online": "https://lab.tongjiang.app/c/insolation-step/"
-  },
-  {
-    "slug": "ball-stick-step",
-    "subject": "chem",
-    "title": "搭建球棍模型认识有机化合物分子结构",
-    "type": "原理与现象模拟",
-    "question": "分子画在纸上是平的，真实的三维形状到底是什么样？搭一座球棍模型能看出什么？",
-    "textbook": [
-      "必修第二册 · 第七章 有机化合物 · 实验活动8 搭建球棍模型认识有机化合物分子结构"
-    ],
-    "steps": [
-      "零件盒",
-      "甲烷",
-      "二氯甲烷",
-      "单键能转",
-      "碳链",
-      "同分异构",
-      "乙烯与乙炔",
-      "苯",
-      "考核"
-    ],
-    "file": "courses/ball-stick-step.html",
-    "cover": "covers/ball-stick-step.webp",
-    "online": "https://lab.tongjiang.app/c/ball-stick-step/"
-  },
-  {
-    "slug": "titration-step",
-    "subject": "chem",
-    "title": "强酸与强碱的中和滴定",
-    "type": "原理与现象",
-    "question": "前面加了 20 多毫升几乎看不出变化，为什么最后半滴颜色就全变了？",
-    "textbook": [
-      "选择性必修1 化学反应原理 · 第三章 水溶液中的离子反应与平衡 · 第二节 水的电离和溶液的pH · 酸碱中和滴定 · 实验活动2"
-    ],
-    "steps": [
-      "认识滴定装置",
-      "润洗与赶气泡",
-      "取液与加指示剂",
-      "逐滴加入",
-      "半滴到终点",
-      "读数与计算",
-      "看进去",
-      "误差与错误操作",
-      "考核 · 当滴定员"
-    ],
-    "file": "courses/titration-step.html",
-    "cover": "covers/titration-step.webp",
-    "online": "https://lab.tongjiang.app/c/titration-step/"
-  },
-  {
-    "slug": "chlorine-step",
-    "subject": "chem",
-    "title": "氯气的制备及性质",
-    "type": "原理与现象",
-    "question": "要一瓶干燥、纯净的氯气，装置里每一段各管什么？少一段会怎样？",
-    "textbook": [
-      "必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第二节 氯及其化合物"
-    ],
-    "steps": [
-      "认识装置",
-      "为什么加热",
-      "为什么要浓盐酸",
-      "第一瓶洗什么",
-      "第二瓶洗什么",
-      "怎么收集",
-      "多余的氯气去哪",
-      "氯水里有什么",
-      "考核 · 当实验员"
-    ],
-    "file": "courses/chlorine-step.html",
-    "cover": "covers/chlorine-step.webp",
-    "online": "https://lab.tongjiang.app/c/chlorine-step/"
-  },
-  {
-    "slug": "blast-furnace-step",
-    "subject": "chem",
-    "title": "高炉炼铁",
-    "type": "工业流程",
-    "question": "一堆矿石从炉顶倒下去，怎么几小时后就变成一股铁水，还越省越好？",
-    "textbook": [
-      "必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 金属矿物的开发利用"
-    ],
-    "steps": [
-      "矿石变铁",
-      "分层布料",
-      "剖开看层",
-      "风口烧焦",
-      "逐级还原",
-      "石灰石造渣",
-      "风温的账",
-      "值班考核"
-    ],
-    "file": "courses/blast-furnace-step.html",
-    "cover": "covers/blast-furnace-step.webp",
-    "online": "https://lab.tongjiang.app/c/blast-furnace-step/"
-  },
-  {
-    "slug": "smelting-step",
-    "subject": "chem",
-    "title": "金属冶炼：电解熔融盐 + 铝热",
-    "type": "工业流程",
-    "question": "为什么铝只能靠电「拆」出来，而铁能被铝「换」出来？",
-    "textbook": [
-      "必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 金属矿物的开发利用"
-    ],
-    "steps": [
-      "三处台子",
-      "只能电解",
-      "剖开槽",
-      "谁往哪走",
-      "掺冰晶石",
-      "电耗的账",
-      "铝热",
-      "值班考核"
-    ],
-    "file": "courses/smelting-step.html",
-    "cover": "covers/smelting-step.webp",
-    "online": "https://lab.tongjiang.app/c/smelting-step/"
-  },
-  {
-    "slug": "currents-step",
-    "subject": "geo",
-    "title": "世界洋流的分布规律与影响",
-    "type": "原理与现象",
-    "question": "数万只玩具鸭散落海面，为什么会漂到世界各地的海岸？",
-    "textbook": [
-      "选择性必修1 自然地理基础 · 第四章 水的运动 · 第二节 洋流",
-      "必修第一册 · 第三章 地球上的水 · 第三节 海水的运动"
-    ],
-    "steps": [
-      "风推水走",
-      "中低纬成圈",
-      "中高纬反着转",
-      "寒暖流",
-      "不绕圈会倒转",
-      "海水性质",
-      "气候影响",
-      "渔场",
-      "考核 · 四站"
-    ],
-    "file": "courses/currents-step.html",
-    "cover": "covers/currents-step.webp",
-    "online": "https://lab.tongjiang.app/c/currents-step/"
-  },
-  {
-    "slug": "enso-step",
-    "subject": "geo",
-    "title": "海—气相互作用与厄尔尼诺、拉尼娜",
-    "type": "原理与现象",
-    "question": "秘鲁沿海常年干旱，为什么 2016 年底海水一暖，就下起了暴雨、还死了近百人？",
-    "textbook": [
-      "选择性必修1 自然地理基础 · 第四章 水的运动 · 第三节 海—气相互作用"
-    ],
-    "steps": [
-      "交换",
-      "差",
-      "环流",
-      "厄尔尼诺",
-      "越线",
-      "拉尼娜",
-      "考核"
-    ],
-    "file": "courses/enso-step.html",
-    "cover": "covers/enso-step.webp",
-    "online": "https://lab.tongjiang.app/c/enso-step/"
-  },
-  {
-    "slug": "coal-gas-step",
-    "subject": "chem",
-    "title": "煤的综合利用：以煤的气化为主线",
-    "type": "工业流程",
-    "question": "煤只能烧吗？怎么把煤变成能造化肥、造甲醇的气？",
-    "textbook": [
-      "必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 煤的综合利用"
-    ],
-    "steps": [
-      "为什么气化",
-      "供热还是供气",
-      "炉子里长什么样",
-      "蒸汽多好还是少好",
-      "变换调比例",
-      "为什么要脱硫",
-      "变成什么",
-      "考核"
-    ],
-    "file": "courses/coal-gas-step.html",
-    "cover": "covers/coal-gas-step.webp",
-    "online": "https://lab.tongjiang.app/c/coal-gas-step/"
-  },
-  {
-    "slug": "sulfuric-step",
-    "subject": "chem",
-    "title": "接触法制硫酸",
-    "type": "工业流程",
-    "question": "怎样把矿石里的硫，又快、又多、又省、又干净地变成硫酸？",
-    "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第一节 硫及其化合物 · 工业制硫酸"
-    ],
-    "steps": [
-      "为什么分五段",
-      "为什么先净化",
-      "为什么这个温度",
-      "为什么要常压",
-      "塔内什么样",
-      "为什么用浓硫酸",
-      "考核 · 当班长"
-    ],
-    "file": "courses/sulfuric-step.html",
-    "cover": "covers/sulfuric-step.webp",
-    "online": "https://lab.tongjiang.app/c/sulfuric-step/"
-  },
-  {
-    "slug": "hydrolysis-step",
-    "subject": "chem",
-    "title": "盐类的水解及其应用",
-    "type": "原理与现象",
-    "question": "盐电离出来的离子看上去「既不酸也不碱」，凭什么能让溶液显出酸碱性？",
-    "textbook": [
-      "选择性必修1 化学反应原理 · 第三章 水溶液中的离子反应与平衡 · 第三节 盐类的水解 · 实验活动3 盐类水解的应用"
-    ],
-    "steps": [
-      "认识实验",
-      "盐的类型",
-      "看进去",
-      "浓度",
-      "温度",
-      "加酸抑制",
-      "净水",
-      "煮沸与蒸干",
-      "考核 · 配溶液"
-    ],
-    "file": "courses/hydrolysis-step.html",
-    "cover": "covers/hydrolysis-step.webp",
-    "online": "https://lab.tongjiang.app/c/hydrolysis-step/"
-  },
-  {
-    "slug": "heating-step",
-    "subject": "geo",
-    "title": "大气受热过程",
-    "type": "原理与现象",
-    "question": "太阳晒了一整天的地面，为什么白天先热起来，夜里又凉得那么快——大气到底替地面留住了多少热？",
-    "textbook": [
-      "必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 大气受热过程"
-    ],
-    "steps": [
-      "削弱",
-      "地面吸收",
-      "长波",
-      "截留",
-      "逆辐射",
-      "云",
-      "温室气体",
-      "月球对照",
-      "考核"
-    ],
-    "file": "courses/heating-step.html",
-    "cover": "covers/heating-step.webp",
-    "online": "https://lab.tongjiang.app/c/heating-step/"
-  },
-  {
-    "slug": "karst-step",
-    "subject": "geo",
-    "title": "喀斯特地貌的形成与识别",
-    "type": "原理与现象",
-    "question": "徐霞客写的「峭峰离立，分行竞颖」——这些像从地里长出来的尖峰，是怎么一块岩层变出来的？",
-    "textbook": [
-      "必修第一册 · 第四章 地貌 · 第一节 常见地貌类型 · 喀斯特地貌"
-    ],
-    "steps": [
-      "溶",
-      "沟→洼",
-      "峰丛→峰林",
-      "孤峰→残丘",
-      "快慢",
-      "洞",
-      "考核"
-    ],
-    "file": "courses/karst-step.html",
-    "cover": "covers/karst-step.webp",
-    "online": "https://lab.tongjiang.app/c/karst-step/"
-  },
-  {
-    "slug": "cement-step",
-    "subject": "chem",
-    "title": "工业制水泥",
-    "type": "工业流程",
-    "question": "一车石头和土，凭什么磨一磨、烧一烧、再磨一磨，就变成能撑起大坝的水泥？",
-    "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第三节 无机非金属材料"
-    ],
-    "steps": [
-      "看全厂",
-      "备生料",
-      "预热分解",
-      "窑里走",
-      "烧成带",
-      "急冷",
-      "加石膏",
-      "值班考核"
-    ],
-    "file": "courses/cement-step.html",
-    "cover": "covers/cement-step.webp",
-    "online": "https://lab.tongjiang.app/c/cement-step/"
-  },
-  {
-    "slug": "carbon-step",
-    "subject": "geo",
-    "title": "全球气候变化与国家安全",
-    "type": "原理与现象",
-    "question": "马尔代夫为什么要把内阁会议开到 6 米深的海底去？",
-    "textbook": [
-      "选择性必修3 资源、环境与国家安全 · 第三章 环境安全与国家安全 · 第四节 全球气候变化与国家安全"
-    ],
-    "steps": [
-      "碳循环",
-      "两条输入",
-      "排放去向",
-      "保温增强",
-      "越线",
-      "国家",
-      "应对",
-      "考核"
-    ],
-    "file": "courses/carbon-step.html",
-    "cover": "covers/carbon-step.webp",
-    "online": "https://lab.tongjiang.app/c/carbon-step/"
-  },
-  {
-    "slug": "tectonic-step",
-    "subject": "geo",
-    "title": "构造地貌的形成",
-    "type": "原理与现象",
-    "question": "青藏高原上为什么会找到阔叶树的叶子化石 —— 什么力量把地表抬起来、又把它切开？",
-    "textbook": [
-      "选择性必修1 自然地理基础 · 第二章 地表形态的塑造 · 第二节 构造地貌的形成"
-    ],
-    "steps": [
-      "弯",
-      "分",
-      "倒置",
-      "错开",
-      "升降",
-      "考核"
-    ],
-    "file": "courses/tectonic-step.html",
-    "cover": "covers/tectonic-step.webp",
-    "online": "https://lab.tongjiang.app/c/tectonic-step/"
-  },
-  {
-    "slug": "photoelectric-step",
-    "subject": "phys",
-    "title": "光电效应",
-    "type": "原理与实验",
-    "question": "同一束光，为什么换成另一种金属就一个电子都打不出来？光电子的能量到底由光的什么决定？",
-    "textbook": [
-      "选择性必修第三册 · 第四章 原子结构和波粒二象性 · 第二节 光电效应"
-    ],
-    "steps": [
-      "认识电路",
-      "加到饱和",
-      "反向扫描",
-      "改光强",
-      "换频率",
-      "换金属",
-      "作图测 h",
-      "真实器材",
-      "考核"
-    ],
-    "file": "courses/photoelectric-step.html",
-    "cover": "covers/photoelectric-step.webp",
-    "online": "https://lab.tongjiang.app/c/photoelectric-step/"
-  },
-  {
-    "slug": "capacitor-step",
-    "subject": "phys",
-    "title": "观察电容器的充放电",
-    "type": "原理与实验",
-    "question": "电容器里到底存了什么？能不能只用一个数把它的「肚量」量出来？",
-    "textbook": [
-      "必修第三册 · 第十章 静电场中的能量 · 第四节 电容器的电容 · 学生必做实验：观察电容器的充放电"
-    ],
-    "steps": [
-      "认识器材",
-      "合向 1 充电",
-      "合向 2 放电",
-      "面积得电荷",
-      "两种接法",
-      "记录 q-u",
-      "换 C 换 R",
-      "真实器材",
-      "考核"
-    ],
-    "file": "courses/capacitor-step.html",
-    "cover": "covers/capacitor-step.webp",
-    "online": "https://lab.tongjiang.app/c/capacitor-step/"
-  },
-  {
-    "slug": "earth-motion-step",
-    "subject": "geo",
-    "title": "地球运动的地理意义",
-    "type": "原理与现象",
-    "question": "同一时刻，为什么北京是中午、纽约是半夜，而夏天的白天又比冬天长？",
-    "textbook": [
-      "选择性必修1 自然地理基础 · 第一章 地球的运动 · 第二节 地球运动的地理意义",
-      "选择性必修1 自然地理基础 · 第一章 地球的运动 · 第一节 地球的自转和公转"
-    ],
-    "steps": [
-      "自转",
-      "公转",
-      "昼夜半球",
-      "晨线昏线",
-      "地方时",
-      "时区日界线",
-      "昼夜长短",
-      "正午太阳高度",
-      "考核 · 时差"
-    ],
-    "file": "courses/earth-motion-step.html",
-    "cover": "covers/earth-motion-step.webp",
-    "online": "https://lab.tongjiang.app/c/earth-motion-step/"
-  },
-  {
-    "slug": "accel-force-step",
-    "subject": "phys",
-    "title": "实验：探究加速度与力、质量的关系",
-    "type": "原理与现象",
-    "question": "不直接测力、也不直接测加速度——一张纸带加几个槽码，能不能把 a 与 F、m 的关系量出来？",
-    "textbook": [
-      "必修第一册 · 第四章 运动和力的关系 · 第二节 实验：探究加速度与力、质量的关系"
-    ],
-    "steps": [
-      "认识器材",
-      "平衡阻力",
-      "打纸带",
-      "求加速度",
-      "a 与 F",
-      "a 与 m",
-      "误差",
-      "考核"
-    ],
-    "file": "courses/accel-force-step.html",
-    "cover": "covers/accel-force-step.webp",
-    "online": "https://lab.tongjiang.app/c/accel-force-step/"
-  },
-  {
-    "slug": "iron-step",
-    "subject": "chem",
-    "title": "铁及其化合物：铁的价态转化",
-    "type": "原理与现象",
-    "question": "同一个铁元素，为什么在试管里一会儿是 +2 价、一会儿是 +3 价，我们凭什么知道它是哪一个？",
-    "textbook": [
-      "必修第一册 · 第三章 铁 金属材料 · 第一节 铁及其化合物"
-    ],
-    "steps": [
-      "认识实验",
-      "白色沉淀",
-      "隔绝空气",
-      "KSCN 检验",
-      "价态降下来",
-      "价态升回去",
-      "看进去",
-      "检铁站",
-      "考核 · 压到 +2 价"
-    ],
-    "file": "courses/iron-step.html",
-    "cover": "covers/iron-step.webp",
-    "online": "https://lab.tongjiang.app/c/iron-step/"
-  },
-  {
-    "slug": "plasmolysis-step",
-    "subject": "bio",
-    "title": "植物细胞的吸水和失水",
-    "type": "原理与现象",
-    "question": "菜叶泡在清水里会变硬挺，撒了盐会出水——植物细胞怎样吸水和失水？",
-    "textbook": [
-      "必修1 分子与细胞 · 第4章 细胞的物质输入和输出 · 第1节 被动运输 · 探究·实践：探究植物细胞的吸水和失水"
-    ],
-    "steps": [
-      "渗透",
-      "原生质层",
-      "失水",
-      "水去哪",
-      "复原",
-      "甘油",
-      "测浓度",
-      "考核"
-    ],
-    "file": "courses/plasmolysis-step.html",
-    "cover": "covers/plasmolysis-step.webp",
-    "online": "https://lab.tongjiang.app/c/plasmolysis-step/"
-  },
-  {
-    "slug": "electrolysis-step",
-    "subject": "chem",
-    "title": "电解原理：电解氯化铜溶液与饱和食盐水",
-    "type": "原理与现象",
-    "question": "同一个直流电源，为什么电解氯化铜溶液得到铜和氯气，电解饱和食盐水却得到氢气、氯气和氢氧化钠？",
-    "textbook": [
-      "选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第二节 电解池 · 电解氯化铜溶液 · 电解饱和食盐水"
-    ],
-    "steps": [
-      "认识实验",
-      "接通电源",
-      "通得更久",
-      "看进去",
-      "换食盐水",
-      "阴极区变红",
-      "放电顺序",
-      "铜作阳极",
-      "考核 · 出 29.6 mg 铜"
-    ],
-    "file": "courses/electrolysis-step.html",
-    "cover": "covers/electrolysis-step.webp",
-    "online": "https://lab.tongjiang.app/c/electrolysis-step/"
-  },
-  {
-    "slug": "ammonia-step",
-    "subject": "chem",
-    "title": "氨的制备与性质（含喷泉实验）",
-    "type": "原理与现象",
-    "question": "一瓶氨气，凭什么能把烧杯里的水自己「吸」到瓶子里去？",
-    "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第二节 氮及其化合物 · 氨和铵盐"
-    ],
-    "steps": [
-      "整套装置",
-      "管口朝哪边",
-      "干燥剂选谁",
-      "怎么收集",
-      "收多久",
-      "验满与白烟",
-      "做喷泉",
-      "看进去",
-      "考核 · 做喷泉"
-    ],
-    "file": "courses/ammonia-step.html",
-    "cover": "covers/ammonia-step.webp",
-    "online": "https://lab.tongjiang.app/c/ammonia-step/"
-  },
-  {
-    "slug": "equilibrium-step",
-    "subject": "chem",
-    "title": "探究影响化学平衡移动的因素",
-    "type": "原理与实验",
-    "question": "改变一个条件，凭什么说平衡「往哪边移」？",
-    "textbook": [
-      "选择性必修1 化学反应原理 · 第二章 化学反应速率与化学平衡 · 实验活动1 探究影响化学平衡移动的因素"
-    ],
-    "steps": [
-      "认识实验台",
-      "铁管加料",
-      "铁粉减料",
-      "铬管加碱",
-      "铬管加酸",
-      "冷热两盆",
-      "看进去",
-      "误差 · 读数",
-      "考核"
-    ],
-    "file": "courses/equilibrium-step.html",
-    "cover": "covers/equilibrium-step.webp",
-    "online": "https://lab.tongjiang.app/c/equilibrium-step/"
-  },
-  {
-    "slug": "flame-step",
-    "subject": "chem",
-    "title": "焰色试验与原子光谱",
-    "type": "原理与现象",
-    "question": "金属在火焰里为什么各有各的颜色，这点颜色凭什么能当成「化验报告」？",
-    "textbook": [
-      "必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 焰色试验",
-      "选择性必修2 物质结构与性质 · 第一章 原子结构与性质 · 第一节 原子结构 · 原子光谱"
-    ],
-    "steps": [
-      "认识实验",
-      "洗净铂丝",
-      "钠双线",
-      "钾与钴玻璃",
-      "能量与波长",
-      "发射与吸收",
-      "六种金属",
-      "考核 · 验出钾"
-    ],
-    "file": "courses/flame-step.html",
-    "cover": "covers/flame-step.webp",
-    "online": "https://lab.tongjiang.app/c/flame-step/"
-  },
-  {
-    "slug": "galvanic-step",
-    "subject": "chem",
-    "title": "原电池：单液到双液",
-    "type": "原理与现象",
-    "question": "同一杯稀硫酸里已经有电流了，为什么还要换成两杯、再加一根盐桥？",
-    "textbook": [
-      "必修第二册 · 第六章 化学反应与能量 · 第一节 化学反应与能量变化 · 实验活动6 化学能转化成电能",
-      "选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第一节 原电池"
-    ],
-    "steps": [
-      "两台装置",
-      "接通导线",
-      "谁在流",
-      "单液的代价",
-      "换成双液",
-      "拔出盐桥",
-      "看进去",
-      "浓度",
-      "考核 · 组装"
-    ],
-    "file": "courses/galvanic-step.html",
-    "cover": "covers/galvanic-step.webp",
-    "online": "https://lab.tongjiang.app/c/galvanic-step/"
-  },
-  {
-    "slug": "conductivity-step",
-    "subject": "chem",
-    "title": "电解质的电离与溶液导电性、离子反应的实质",
-    "type": "原理与现象",
-    "question": "干手、湿手都是同一只手，为什么湿了反而容易触电？",
-    "textbook": [
-      "必修第一册 · 第一章 物质及其变化 · 第二节 离子反应",
-      "选择性必修1 化学反应原理 · 第三章 水溶液中的离子反应与平衡 · 第一节 电离平衡 · 强电解质和弱电解质"
-    ],
-    "steps": [
-      "认识台面",
-      "干燥与熔融",
-      "溶于水",
-      "水与蔗糖",
-      "强与弱",
-      "滴加稀硫酸",
-      "看进去",
-      "换错滴定剂",
-      "考核 · 找终点"
-    ],
-    "file": "courses/conductivity-step.html",
-    "cover": "covers/conductivity-step.webp",
-    "online": "https://lab.tongjiang.app/c/conductivity-step/"
-  },
-  {
-    "slug": "energy-step",
-    "subject": "phys",
-    "title": "实验：验证机械能守恒定律",
-    "type": "原理与现象",
-    "question": "重物下落时，减少的重力势能是不是正好变成了增加的动能？一条纸带能不能把这件事量出来？",
-    "textbook": [
-      "必修第二册 · 第八章 机械能守恒定律 · 第五节 实验：验证机械能守恒定律"
-    ],
-    "steps": [
-      "认识器材",
-      "先通电后释放",
-      "选点",
-      "量 h 算 v",
-      "记录作图",
-      "换重物",
-      "误差",
-      "考核"
-    ],
-    "file": "courses/energy-step.html",
-    "cover": "covers/energy-step.webp",
-    "online": "https://lab.tongjiang.app/c/energy-step/"
-  },
-  {
-    "slug": "soil-step",
-    "subject": "geo",
-    "title": "土壤的主要形成因素与土壤剖面观察",
-    "type": "原理与现象",
-    "question": "东北的土又黑又肥，南方的土为什么相对贫瘠？",
-    "textbook": [
-      "必修第一册 · 第五章 植被与土壤 · 第二节 土壤"
-    ],
-    "steps": [
-      "剖面",
-      "母质",
-      "生物",
-      "气候",
-      "地貌",
-      "时间",
-      "人",
-      "考核"
-    ],
-    "file": "courses/soil-step.html",
-    "cover": "covers/soil-step.webp",
-    "online": "https://lab.tongjiang.app/c/soil-step/"
-  },
-  {
-    "slug": "projectile-step",
-    "subject": "phys",
-    "title": "实验：探究平抛运动的特点",
-    "type": "原理与现象",
-    "question": "只靠一只斜槽和一块挡板，能不能把平抛拆成两个分运动、量出初速度？",
-    "textbook": [
-      "必修第二册 · 第五章 抛体运动 · 第三节 实验：探究平抛运动的特点"
-    ],
-    "steps": [
-      "认识器材",
-      "先做竖直",
-      "末端要水平",
-      "描四个点",
-      "定时间间隔",
-      "水平是匀速",
-      "换一条刻线",
-      "两种偏大",
-      "考核"
-    ],
-    "file": "courses/projectile-step.html",
-    "cover": "covers/projectile-step.webp",
-    "online": "https://lab.tongjiang.app/c/projectile-step/"
-  },
-  {
-    "slug": "transport-step",
-    "subject": "bio",
-    "title": "物质跨膜运输",
-    "type": "原理与现象",
-    "question": "同一片细胞膜，为什么氧能自己穿过去、葡萄糖要好几个蛋白帮忙、K⁺ 还能逆着浓度往里走？",
-    "textbook": [
-      "必修1 分子与细胞 · 第4章 细胞的物质输入和输出"
-    ],
-    "steps": [
-      "自由扩散",
-      "选择透过",
-      "协助扩散",
-      "载体与通道",
-      "主动运输",
-      "胞吞胞吐",
-      "汇总",
-      "考核"
-    ],
-    "file": "courses/transport-step.html",
-    "cover": "covers/transport-step.webp",
-    "online": "https://lab.tongjiang.app/c/transport-step/"
-  },
-  {
-    "slug": "nitric-lab-step",
-    "subject": "chem",
-    "title": "浓、稀硝酸的性质与氮氧化物的转化",
-    "type": "原理与现象",
-    "question": "同样是铜和硝酸，为什么一瓶冒红棕色气体、另一瓶什么颜色都没有？",
-    "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第二节 氮及其化合物 · 一氧化氮和二氧化氮、硝酸"
-    ],
-    "steps": [
-      "整套装置",
-      "铜丝插进去",
-      "换成稀硝酸",
-      "换成铁片",
-      "尾气去哪了",
-      "棕色瓶的道理",
-      "通入空气",
-      "振荡与看进去",
-      "考核 · 转化掉它"
-    ],
-    "file": "courses/nitric-lab-step.html",
-    "cover": "covers/nitric-lab-step.webp",
-    "online": "https://lab.tongjiang.app/c/nitric-lab-step/"
-  },
-  {
-    "slug": "centripetal-step",
-    "subject": "phys",
-    "title": "探究向心力大小与半径、角速度、质量的关系",
-    "type": "原理与现象",
-    "question": "这台手摇的演示器只给你两个标尺上的格数——能不能用它把 F 与 m、r、ω 的定量关系量出来？",
-    "textbook": [
-      "必修第二册 · 第六章 圆周运动 · 第二节 向心力 · 实验：探究向心力大小与半径、角速度、质量的关系"
-    ],
-    "steps": [
-      "认识演示器",
-      "仪器自检",
-      "质量关系",
-      "半径关系",
-      "角速度关系",
-      "三条合成一条式子",
-      "误差与错误操作",
-      "考核 · ω 是平方"
-    ],
-    "file": "courses/centripetal-step.html",
-    "cover": "covers/centripetal-step.webp",
-    "online": "https://lab.tongjiang.app/c/centripetal-step/"
-  },
-  {
-    "slug": "self-induction-step",
-    "subject": "phys",
-    "title": "自感与涡流",
-    "type": "原理与实验",
-    "question": "线圈里只是多绕了几圈铜线，为什么两只灯泡亮得不一样？开关已经断开了，灯泡凭什么还能再亮一下？",
-    "textbook": [
-      "选择性必修第二册 · 第二章 电磁感应 · 第四节 互感和自感",
-      "选择性必修第二册 · 第二章 电磁感应 · 第三节 涡流、电磁阻尼和电磁驱动"
-    ],
-    "steps": [
-      "认识器材",
-      "通电自感",
-      "断电自感",
-      "I-t 曲线",
-      "换线圈",
-      "真实器材",
-      "涡流",
-      "电磁阻尼",
-      "考核"
-    ],
-    "file": "courses/self-induction-step.html",
-    "cover": "covers/self-induction-step.webp",
-    "online": "https://lab.tongjiang.app/c/self-induction-step/"
-  },
-  {
-    "slug": "emf-step",
-    "subject": "phys",
-    "title": "测电源电动势和内阻",
-    "type": "原理与实验",
-    "question": "一节旧干电池的电动势和内阻，怎么用一只电压表、一只电流表和一个滑动变阻器「测」出来？换一种接法，测出来的还一样吗？",
-    "textbook": [
-      "必修第三册 · 第十二章 电能 能量守恒定律 · 第三节 实验：电池电动势和内阻的测量"
-    ],
-    "steps": [
-      "认识接法",
-      "先到最大",
-      "多测几组",
-      "作 U-I 图",
-      "纵轴起点",
-      "只测两组",
-      "换接法",
-      "误差分析",
-      "考核"
-    ],
-    "file": "courses/emf-step.html",
-    "cover": "covers/emf-step.webp",
-    "online": "https://lab.tongjiang.app/c/emf-step/"
-  },
-  {
-    "slug": "impulse-step",
-    "subject": "bio",
-    "title": "神经冲动的产生和传导",
-    "type": "原理与现象",
-    "question": "发令枪响后 0.1 s 内起跑就算抢跑（教材 p.27）——兴奋在身体里怎样「跑」过去？",
-    "textbook": [
-      "选择性必修1 稳态与调节 · 第2章 神经调节 · 第3节 神经冲动的产生和传导"
-    ],
-    "steps": [
-      "神经冲动",
-      "静息电位",
-      "动作电位",
-      "局部电流",
-      "突触",
-      "单向与延搁",
-      "可卡因",
-      "膜外 Na⁺",
-      "考核"
-    ],
-    "file": "courses/impulse-step.html",
-    "cover": "covers/impulse-step.webp",
-    "online": "https://lab.tongjiang.app/c/impulse-step/"
-  },
-  {
-    "slug": "bromine-step",
-    "subject": "chem",
-    "title": "海水提溴：空气吹出法",
-    "type": "工业流程",
-    "question": "海水里的溴只有 65 mg/L，怎么把它变成一瓶液溴？",
-    "textbook": [
-      "必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 海水资源的开发利用"
-    ],
-    "steps": [
-      "全场",
-      "酸化",
-      "氧化",
-      "吹出",
-      "吸收",
-      "提纯",
-      "考核"
-    ],
-    "file": "courses/bromine-step.html",
-    "cover": "covers/bromine-step.webp",
-    "online": "https://lab.tongjiang.app/c/bromine-step/"
-  },
-  {
-    "slug": "thermal-step",
-    "subject": "geo",
-    "title": "大气热力环流",
-    "type": "原理与现象",
-    "question": "台湾海峡两岸的风向，为什么一天里会反过来？",
-    "textbook": [
-      "必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 热力环流"
-    ],
-    "steps": [
-      "温差",
-      "高空",
-      "近地面",
-      "成环",
-      "强弱",
-      "海风",
-      "陆风",
-      "热岛",
-      "考核"
-    ],
-    "file": "courses/thermal-step.html",
-    "cover": "covers/thermal-step.webp",
-    "online": "https://lab.tongjiang.app/c/thermal-step/"
-  },
-  {
-    "slug": "mitosis-step",
-    "subject": "bio",
-    "title": "观察根尖分生区组织细胞的有丝分裂",
-    "type": "原理与现象",
-    "question": "一根洋葱根尖上，哪些细胞正在分裂？它们分裂一次各要多久？",
-    "textbook": [
-      "必修1 分子与细胞 · 第6章 细胞的生命历程 · 第1节 细胞的增殖 · 探究·实践：观察根尖分生区组织细胞的有丝分裂"
-    ],
-    "steps": [
-      "制片",
-      "找分生区",
-      "前期",
-      "中期",
-      "后期",
-      "末期",
-      "计数",
-      "算时长",
-      "考核"
-    ],
-    "file": "courses/mitosis-step.html",
-    "cover": "covers/mitosis-step.webp",
-    "online": "https://lab.tongjiang.app/c/mitosis-step/"
-  },
-  {
-    "slug": "sodium-step",
-    "subject": "chem",
-    "title": "金属钠的性质（含钠着火扑救）",
-    "type": "原理与现象",
-    "question": "一块银白色的小金属，为什么必须泡在煤油里，着火时连水都不能浇？",
-    "textbook": [
-      "必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 活泼的金属单质——钠"
-    ],
-    "steps": [
-      "认识实验",
-      "银白变暗",
-      "泡在煤油里",
-      "加热燃烧",
-      "浮熔游响红",
-      "钠块大小",
-      "看进去",
-      "着火扑救",
-      "考核"
-    ],
-    "file": "courses/sodium-step.html",
-    "cover": "covers/sodium-step.webp",
-    "online": "https://lab.tongjiang.app/c/sodium-step/"
-  },
-  {
-    "slug": "sulfur-step",
-    "subject": "chem",
-    "title": "硫、二氧化硫、浓硫酸的性质与不同价态含硫物质的转化",
-    "type": "原理与现象",
-    "question": "同样是硫，为什么有时它是黄色固体、有时让品红褪成无色、有时又跑进铁粉里？",
-    "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第一节 硫及其化合物",
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 实验活动5 不同价态含硫物质的转化"
-    ],
-    "steps": [
-      "整套装置",
-      "硫粉 + 铁粉",
-      "浓硫酸与铜",
-      "浓还是稀",
-      "加热复原",
-      "三支检验管与棉团",
-      "归中到零价",
-      "看进去 · 价态电梯",
-      "考核 · 漂白到底"
-    ],
-    "file": "courses/sulfur-step.html",
-    "cover": "covers/sulfur-step.webp",
-    "online": "https://lab.tongjiang.app/c/sulfur-step/"
-  },
-  {
-    "slug": "wind-step",
-    "subject": "geo",
-    "title": "大气的水平运动——风",
-    "type": "原理与现象",
-    "question": "天气图上的风，为什么不是从高压直直吹向低压？",
-    "textbook": [
-      "必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 大气的水平运动——风"
-    ],
-    "steps": [
-      "等压线",
-      "梯度力",
-      "地转偏向",
-      "高空风",
-      "近地面",
-      "南半球",
-      "疏密",
-      "考核"
-    ],
-    "file": "courses/wind-step.html",
-    "cover": "covers/wind-step.webp",
-    "online": "https://lab.tongjiang.app/c/wind-step/"
-  },
-  {
-    "slug": "corrosion-step",
-    "subject": "chem",
-    "title": "吸氧腐蚀与暖贴的设计",
-    "type": "原理与现象",
-    "question": "铁生锈这么慢的事，凭什么能做出一个 45 ℃ 以上的暖贴？又凭什么反过来用它保护铁不生锈？",
-    "textbook": [
-      "选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第三节 金属的腐蚀与防护 · 研究与实践：暖贴的设计与制作"
-    ],
-    "steps": [
-      "台面四站",
-      "液柱为什么升",
-      "碳粉的角色",
-      "换成酸性",
-      "看进去",
-      "暖贴发热",
-      "捂住的代价",
-      "让锌替它锈",
-      "考核 · 设计暖贴"
-    ],
-    "file": "courses/corrosion-step.html",
-    "cover": "covers/corrosion-step.webp",
-    "online": "https://lab.tongjiang.app/c/corrosion-step/"
-  },
-  {
-    "slug": "enzyme-step",
-    "subject": "bio",
-    "title": "影响酶活性的条件",
-    "type": "原理与现象",
-    "question": "同一支酶，为什么放进沸水里就再也救不回来，放进冰水里却还能醒过来？",
-    "textbook": [
-      "必修1 分子与细胞 · 第5章 细胞的能量供应和利用 · 第1节 降低化学反应活化能的酶 · 探究·实践：影响酶活性的条件"
-    ],
-    "steps": [
-      "认识实验台",
-      "温度",
-      "pH",
-      "高温不可逆",
-      "低温可恢复",
-      "看进去",
-      "过酸过碱",
-      "考核 · 当实验员"
-    ],
-    "file": "courses/enzyme-step.html",
-    "cover": "covers/enzyme-step.webp",
-    "online": "https://lab.tongjiang.app/c/enzyme-step/"
-  },
-  {
-    "slug": "chlor-alkali-step",
-    "subject": "chem",
-    "title": "氯碱工业",
-    "type": "工业流程",
-    "question": "同样的电，怎样换来更多烧碱、更少电耗，又不出事故？",
-    "textbook": [
-      "选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第二节 电解池 · 电解饱和食盐水"
-    ],
-    "steps": [
-      "三样产品",
-      "先洗盐",
-      "剖开槽",
-      "膜里看",
-      "多加电",
-      "调槽温",
-      "拆掉膜",
-      "值班考核"
-    ],
-    "file": "courses/chlor-alkali-step.html",
-    "cover": "covers/chlor-alkali-step.webp",
-    "online": "https://lab.tongjiang.app/c/chlor-alkali-step/"
-  },
-  {
-    "slug": "hou-soda-step",
-    "subject": "chem",
-    "title": "侯氏制碱",
-    "type": "工业流程",
-    "question": "怎样用食盐和氨造出纯碱，还顺手拿到氮肥？",
-    "textbook": [
-      "必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 情境素材：侯氏制碱法"
-    ],
-    "steps": [
-      "从盐到碱",
-      "先氨后碳",
-      "为什么它自己析出",
-      "碳化温度",
-      "过滤分两路",
-      "煅烧成碱",
-      "母液与循环",
-      "你来当班长"
-    ],
-    "file": "courses/hou-soda-step.html",
-    "cover": "covers/hou-soda-step.webp",
-    "online": "https://lab.tongjiang.app/c/hou-soda-step/"
-  },
-  {
-    "slug": "current-field-step",
-    "subject": "phys",
-    "title": "电流的磁场",
-    "type": "原理与现象",
-    "question": "磁场看不见摸不着，怎么把它画出来、又怎么判断它的方向？",
-    "textbook": [
-      "必修第三册 · 第十三章 电磁感应与电磁波初步 · 第一节 磁场 磁感线"
-    ],
-    "steps": [
-      "铁屑显形",
-      "一圈圈同心圆",
-      "握导线定方向",
-      "疏密就是强弱",
-      "穿环绕回",
-      "多匝叠加",
-      "轴向衰减",
-      "内部匀强",
-      "考核 · 找管口"
-    ],
-    "file": "courses/current-field-step.html",
-    "cover": "covers/current-field-step.webp",
-    "online": "https://lab.tongjiang.app/c/current-field-step/"
-  },
-  {
-    "slug": "brownian-step",
-    "subject": "phys",
-    "title": "布朗运动与扩散",
-    "type": "原理与现象",
-    "question": "看不见的分子，凭什么说它在乱动？",
-    "textbook": [
-      "选择性必修第三册 · 第一章 分子动理论 · 第一节 分子动理论的基本内容"
-    ],
-    "steps": [
-      "看见它在动",
-      "30 秒一个点",
-      "越久越远",
-      "微粒越小越明显",
-      "温度越高越剧烈",
-      "撞出来的",
-      "单次不等于统计",
-      "扩散：浓度展开",
-      "考核 · 动得更明显"
-    ],
-    "file": "courses/brownian-step.html",
-    "cover": "covers/brownian-step.webp",
-    "online": "https://lab.tongjiang.app/c/brownian-step/"
-  },
-  {
-    "slug": "water-cycle-step",
-    "subject": "geo",
-    "title": "水循环的过程与地理意义",
-    "type": "原理与现象",
-    "question": "江河不断注入大海，为什么大海的水没有增多？",
-    "textbook": [
-      "必修第一册 · 第三章 地球上的水 · 第一节 水循环"
-    ],
-    "steps": [
-      "全景",
-      "蒸发",
-      "蒸腾",
-      "输送",
-      "下渗",
-      "三类",
-      "砂田",
-      "意义",
-      "考核"
-    ],
-    "file": "courses/water-cycle-step.html",
-    "cover": "covers/water-cycle-step.webp",
-    "online": "https://lab.tongjiang.app/c/water-cycle-step/"
-  },
-  {
-    "slug": "circulation-step",
-    "subject": "geo",
-    "title": "气压带、风带与三圈环流",
-    "type": "原理与现象",
-    "question": "麦哲伦船队为什么有的航段逆风、有的顺风，到了 30°S 附近却寸步难行？",
-    "textbook": [
-      "选择性必修1 自然地理基础 · 第三章 大气的运动 · 第二节 气压带和风带"
-    ],
-    "steps": [
-      "赤道低压",
-      "30° 下沉",
-      "60° 爬升",
-      "七带六风",
-      "季节移动",
-      "海陆分布",
-      "考核 · 麦哲伦"
-    ],
-    "file": "courses/circulation-step.html",
-    "cover": "covers/circulation-step.webp",
-    "online": "https://lab.tongjiang.app/c/circulation-step/"
-  }
+ {
+  "slug": "haber-step",
+  "subject": "chem",
+  "title": "Síntesi de l'amoníac",
+  "type": "Procés industrial",
+  "question": "Com es pot convertir el nitrogen de l'aire en amoníac de pressa, en gran quantitat i amb poca despesa?",
+  "textbook": [
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 2: Velocitat de reacció i equilibri químic · Apartat 4: Control de les reaccions químiques",
+   "Obligatori, volum 2 · Cap. 5: Elements no metàl·lics importants en la producció química · Apartat 2: El nitrogen i els seus compostos"
+  ],
+  "steps": [
+   "Per què es construeix una fàbrica",
+   "Per què cal purificar",
+   "Per què es comprimeix",
+   "Per què cal una temperatura alta",
+   "Com és l'interior de la torre",
+   "Per què cal reciclar",
+   "Avaluació · Fes de cap de torn"
+  ],
+  "file": "courses/haber-step.html",
+  "cover": "covers/haber-step.webp",
+  "online": "https://perque.noeba.cat/courses/haber-step.html"
+ },
+ {
+  "slug": "river-step",
+  "subject": "geo",
+  "title": "El desenvolupament del modelatge fluvial",
+  "type": "Principi i fenòmens",
+  "question": "Per què la línia de riba del tram de Zhenjiang del riu Iang-Tsé es desplaça contínuament cap al nord?",
+  "textbook": [
+   "Optatiu 1: Fonaments de geografia física · Cap. 2: El modelatge de les formes del relleu · Apartat 3: El desenvolupament del modelatge fluvial"
+  ],
+  "steps": [
+   "Coneix la maqueta",
+   "Vall en V de muntanya",
+   "Secció de la vall",
+   "Con al·luvial",
+   "Riba còncava i riba convexa",
+   "Plana d'inundació",
+   "Delta",
+   "Avaluació: arriba la crescuda"
+  ],
+  "file": "courses/river-step.html",
+  "cover": "covers/river-step.webp",
+  "online": "https://perque.noeba.cat/courses/river-step.html"
+ },
+ {
+  "slug": "rate-step",
+  "subject": "chem",
+  "title": "Factors que influeixen en la velocitat de reacció química",
+  "type": "Principi i fenòmens",
+  "question": "Dues reaccions iguals: per què una acaba en pocs segons i l'altra triga una eternitat? De què depèn, en el fons, la rapidesa?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 6: Reaccions químiques i energia · Activitat experimental 7: Factors que afecten la velocitat de reacció",
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 2: Velocitat de reacció i equilibri químic · Apartat 1: Velocitat de reacció"
+  ],
+  "steps": [
+   "Coneix la taula d'experiments",
+   "Concentració",
+   "Temperatura",
+   "Catalitzador",
+   "Mesura quantitativa de la velocitat",
+   "Mira a dins",
+   "Errors i operacions incorrectes",
+   "Avaluació · Fes de tècnic de laboratori"
+  ],
+  "file": "courses/rate-step.html",
+  "cover": "covers/rate-step.webp",
+  "online": "https://perque.noeba.cat/courses/rate-step.html"
+ },
+ {
+  "slug": "insolation-step",
+  "subject": "geo",
+  "title": "Moviment anual del punt subsolar, estacions i cinc zones tèrmiques",
+  "type": "Principi i fenòmens",
+  "question": "Per què l'altura i la direcció del Sol al migdia al lloc de l'escola varien regularment al llarg de l'any?",
+  "textbook": [
+   "Optatiu 1: Fonaments de geografia física · Cap. 1: Els moviments de la Terra · Apartat 2: Significat geogràfic dels moviments de la Terra · Migració del punt subsolar · Estacions i zones climàtiques"
+  ],
+  "steps": [
+   "Obliqüitat de l'eclíptica",
+   "Moviment anual",
+   "Altura del migdia",
+   "Per latitud",
+   "Variació anual",
+   "Direcció al migdia",
+   "Estacions",
+   "Cinc zones",
+   "Avaluació · Marca les zones"
+  ],
+  "file": "courses/insolation-step.html",
+  "cover": "covers/insolation-step.webp",
+  "online": "https://perque.noeba.cat/courses/insolation-step.html"
+ },
+ {
+  "slug": "ball-stick-step",
+  "subject": "chem",
+  "title": "Construeix models de boles i varetes per conèixer l'estructura de les molècules orgàniques",
+  "type": "Simulació de principis i fenòmens",
+  "question": "Al paper les molècules són planes; quina forma tenen realment en tres dimensions? Què revela un model de boles i varetes?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 7: Compostos orgànics · Activitat experimental 8: Construcció de models de boles i barres per conèixer l'estructura de les molècules orgàniques"
+  ],
+  "steps": [
+   "Capsa de peces",
+   "Metà",
+   "Diclorometà",
+   "L'enllaç simple gira",
+   "Cadena carbonada",
+   "Isomeria",
+   "Etè i etí",
+   "Benzè",
+   "Avaluació"
+  ],
+  "file": "courses/ball-stick-step.html",
+  "cover": "covers/ball-stick-step.webp",
+  "online": "https://perque.noeba.cat/courses/ball-stick-step.html"
+ },
+ {
+  "slug": "titration-step",
+  "subject": "chem",
+  "title": "Valoració d'un àcid fort i una base forta",
+  "type": "Principi i fenòmens",
+  "question": "Per què, després d'afegir més de 20 mil·lilitres, gairebé no es veu cap canvi, però l'última mitja gota fa canviar completament el color?",
+  "textbook": [
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 3: Reaccions iòniques i equilibris en dissolució aquosa · Apartat 2: Ionització de l'aigua i pH de les dissolucions · Valoració àcid-base · Activitat experimental 2"
+  ],
+  "steps": [
+   "Coneix el muntatge",
+   "Condicionament i eliminació de bombolles",
+   "Pren mostra i afegeix indicador",
+   "Gota a gota",
+   "Final: mitja gota",
+   "Lectura i càlcul",
+   "Mira a dins",
+   "Errors i operacions incorrectes",
+   "Avaluació · Fes la valoració"
+  ],
+  "file": "courses/titration-step.html",
+  "cover": "covers/titration-step.webp",
+  "online": "https://perque.noeba.cat/courses/titration-step.html"
+ },
+ {
+  "slug": "chlorine-step",
+  "subject": "chem",
+  "title": "Preparació i propietats del gas clor",
+  "type": "Principi i fenòmens",
+  "question": "Per obtenir una ampolla de clor sec i pur, què fa cada tram de l'aparell? Què passa si en falta un?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 2: Elements importants de l'aigua de mar: sodi i clor · Apartat 2: El clor i els seus compostos"
+  ],
+  "steps": [
+   "Coneix l'aparell",
+   "Per què s'escalfa",
+   "Per què cal àcid clorhídric concentrat",
+   "Què renta el primer flascó",
+   "Què renta el segon flascó",
+   "Com el recollim",
+   "On va l'excés de clor",
+   "Què hi ha a l'aigua de clor",
+   "Avaluació · Fes de tècnic de laboratori"
+  ],
+  "file": "courses/chlorine-step.html",
+  "cover": "covers/chlorine-step.webp",
+  "online": "https://perque.noeba.cat/courses/chlorine-step.html"
+ },
+ {
+  "slug": "blast-furnace-step",
+  "subject": "chem",
+  "title": "Obtenció de ferro a l'alt forn",
+  "type": "Procés industrial",
+  "question": "Com es transforma el mineral abocat pel capdamunt en ferro líquid al cap d'unes hores, amb un consum cada cop menor?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 8: Química i desenvolupament sostenible · Apartat 1: Aprofitament dels recursos naturals · Aprofitament dels minerals metàl·lics"
+  ],
+  "steps": [
+   "Del mineral al ferro",
+   "Càrrega en capes",
+   "Mira les capes",
+   "Combustió del coc",
+   "Reducció per etapes",
+   "Escòria amb calcària",
+   "Balanç tèrmic de l'aire",
+   "Avaluació de torn"
+  ],
+  "file": "courses/blast-furnace-step.html",
+  "cover": "covers/blast-furnace-step.webp",
+  "online": "https://perque.noeba.cat/courses/blast-furnace-step.html"
+ },
+ {
+  "slug": "smelting-step",
+  "subject": "chem",
+  "title": "Metal·lúrgia: electròlisi de sals foses + aluminotèrmia",
+  "type": "Procés industrial",
+  "question": "Per què l'alumini només es pot obtenir amb electricitat, mentre que el ferro es pot obtenir per reducció amb alumini?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 8: Química i desenvolupament sostenible · Apartat 1: Aprofitament dels recursos naturals · Aprofitament dels minerals metàl·lics"
+  ],
+  "steps": [
+   "Tres estacions",
+   "Només electròlisi",
+   "Cel·la en secció",
+   "Qui va on",
+   "Addició de criolita",
+   "El consum elèctric",
+   "Aluminotèrmia",
+   "Avaluació de torn"
+  ],
+  "file": "courses/smelting-step.html",
+  "cover": "covers/smelting-step.webp",
+  "online": "https://perque.noeba.cat/courses/smelting-step.html"
+ },
+ {
+  "slug": "currents-step",
+  "subject": "geo",
+  "title": "Distribució i efectes dels corrents oceànics del món",
+  "type": "Principi i fenòmens",
+  "question": "Per què desenes de milers d'ànecs de joguina escampats pel mar van arribar a costes de tot el món?",
+  "textbook": [
+   "Optatiu 1: Fonaments de geografia física · Cap. 4: El moviment de l'aigua · Apartat 2: Els corrents oceànics",
+   "Obligatori, volum 1 · Cap. 3: L'aigua a la Terra · Apartat 3: El moviment de l'aigua de mar"
+  ],
+  "steps": [
+   "El vent mou l'aigua",
+   "Girs a latituds baixes i mitjanes",
+   "Gir invers a latituds altes",
+   "Càlids i freds",
+   "Un no fa gir; l'altre s'inverteix",
+   "Propietats marines",
+   "Efectes sobre el clima",
+   "Caladers",
+   "Avaluació · Les quatre estacions"
+  ],
+  "file": "courses/currents-step.html",
+  "cover": "covers/currents-step.webp",
+  "online": "https://perque.noeba.cat/courses/currents-step.html"
+ },
+ {
+  "slug": "enso-step",
+  "subject": "geo",
+  "title": "Interacció oceà-atmosfera, El Niño i La Niña",
+  "type": "Principi i fenòmens",
+  "question": "La costa del Perú és àrida tot l'any; per què, a finals del 2016, amb només escalfar-se el mar, hi va caure un xàfec i hi van morir gairebé cent persones?",
+  "textbook": [
+   "Optatiu 1: Fonaments de geografia física · Cap. 4: El moviment de l'aigua · Apartat 3: Interacció oceà-atmosfera"
+  ],
+  "steps": [
+   "Intercanvi",
+   "Diferència",
+   "Circulació",
+   "El Niño",
+   "Passar el límit",
+   "La Niña",
+   "Avaluació"
+  ],
+  "file": "courses/enso-step.html",
+  "cover": "covers/enso-step.webp",
+  "online": "https://perque.noeba.cat/courses/enso-step.html"
+ },
+ {
+  "slug": "coal-gas-step",
+  "subject": "chem",
+  "title": "Aprofitament integral del carbó: amb la gasificació com a fil conductor",
+  "type": "Procés industrial",
+  "question": "El carbó només serveix per cremar-lo? Com es pot convertir en un gas per fer adobs i metanol?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 8: Química i desenvolupament sostenible · Apartat 1: Aprofitament dels recursos naturals · Aprofitament integral del carbó"
+  ],
+  "steps": [
+   "Per què gasificar",
+   "Aportar calor o aportar gas",
+   "Com és dins del forn",
+   "Més vapor o menys vapor: què és millor",
+   "La conversió ajusta la proporció",
+   "Per què eliminar el sofre",
+   "En què es converteix",
+   "Avaluació"
+  ],
+  "file": "courses/coal-gas-step.html",
+  "cover": "covers/coal-gas-step.webp",
+  "online": "https://perque.noeba.cat/courses/coal-gas-step.html"
+ },
+ {
+  "slug": "sulfuric-step",
+  "subject": "chem",
+  "title": "Àcid sulfúric pel mètode de contacte",
+  "type": "Procés industrial",
+  "question": "Com transformar el sofre del mineral en àcid sulfúric de pressa, amb rendiment, estalvi i poques emissions?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 5: Elements no metàl·lics importants en la producció química · Apartat 1: El sofre i els seus compostos · Producció industrial d'àcid sulfúric"
+  ],
+  "steps": [
+   "Per què cinc fases?",
+   "Per què purificar?",
+   "Per què aquesta temperatura?",
+   "Per què no comprimir?",
+   "Com és l'interior de la torre",
+   "Per què àcid concentrat?",
+   "Avaluació · Fes de cap de torn"
+  ],
+  "file": "courses/sulfuric-step.html",
+  "cover": "covers/sulfuric-step.webp",
+  "online": "https://perque.noeba.cat/courses/sulfuric-step.html"
+ },
+ {
+  "slug": "hydrolysis-step",
+  "subject": "chem",
+  "title": "Hidròlisi de les sals i aplicacions",
+  "type": "Principi i fenòmens",
+  "question": "Els ions que es formen quan una sal es dissocia semblen no ser ni àcids ni bàsics. Com poden fer que la dissolució sigui àcida o bàsica?",
+  "textbook": [
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 3: Reaccions iòniques i equilibris en dissolució aquosa · Apartat 3: Hidròlisi de sals · Activitat experimental 3: Aplicacions de la hidròlisi de sals"
+  ],
+  "steps": [
+   "Coneix l'experiment",
+   "Tipus de sal",
+   "Mira a dins",
+   "Concentració",
+   "Temperatura",
+   "Inhibició amb àcid",
+   "Clarificació",
+   "Bullir i evaporar",
+   "Avaluació · Prepara la dissolució"
+  ],
+  "file": "courses/hydrolysis-step.html",
+  "cover": "covers/hydrolysis-step.webp",
+  "online": "https://perque.noeba.cat/courses/hydrolysis-step.html"
+ },
+ {
+  "slug": "heating-step",
+  "subject": "geo",
+  "title": "Procés d'escalfament de l'atmosfera",
+  "type": "Principi i fenòmens",
+  "question": "El terra que el Sol escalfa tot el dia, per què s'escalfa primer de dia i es refreda tan de pressa de nit? Quanta calor li reté realment l'atmosfera?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 2: L'atmosfera terrestre · Apartat 2: Escalfament de l'atmosfera i moviments atmosfèrics · Procés d'escalfament de l'atmosfera"
+  ],
+  "steps": [
+   "Atenuació",
+   "Absorció del terra",
+   "Ona llarga",
+   "Retenció",
+   "Contraradiació",
+   "Núvols",
+   "Gasos d'efecte d'hivernacle",
+   "Terra i Lluna",
+   "Avaluació"
+  ],
+  "file": "courses/heating-step.html",
+  "cover": "covers/heating-step.webp",
+  "online": "https://perque.noeba.cat/courses/heating-step.html"
+ },
+ {
+  "slug": "karst-step",
+  "subject": "geo",
+  "title": "Formació i identificació del relleu càrstic",
+  "type": "Principi i fenòmens",
+  "question": "Xu Xiake va escriure «pics escarpats, separats i drets, en fileres que rivalitzen en agudesa»: aquests cims punxeguts, que semblen brotats de la terra, com han sortit d'una sola capa de roca?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 4: Relleu · Apartat 1: Tipus habituals de relleu · Relleu càrstic"
+  ],
+  "steps": [
+   "Dissolució",
+   "Solc→clot",
+   "Grups de pics→bosc de pedra",
+   "Pic aïllat→turó residual",
+   "Rapidesa",
+   "Cova",
+   "Avaluació"
+  ],
+  "file": "courses/karst-step.html",
+  "cover": "covers/karst-step.webp",
+  "online": "https://perque.noeba.cat/courses/karst-step.html"
+ },
+ {
+  "slug": "cement-step",
+  "subject": "chem",
+  "title": "Producció industrial de ciment",
+  "type": "Procés industrial",
+  "question": "Com és que un camió de pedres i terra, que es mol, es cou i es torna a moldre, es converteix en el ciment que aguanta una presa?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 5: Elements no metàl·lics importants en la producció química · Apartat 3: Materials inorgànics no metàl·lics"
+  ],
+  "steps": [
+   "Mira tota la fàbrica",
+   "Preparar la farina crua",
+   "Preescalfament i descomposició",
+   "Dins del forn",
+   "Zona de cocció",
+   "Refredament ràpid",
+   "Afegir guix",
+   "Avaluació de torn"
+  ],
+  "file": "courses/cement-step.html",
+  "cover": "covers/cement-step.webp",
+  "online": "https://perque.noeba.cat/courses/cement-step.html"
+ },
+ {
+  "slug": "carbon-step",
+  "subject": "geo",
+  "title": "Canvi climàtic global i seguretat nacional",
+  "type": "Principi i fenòmens",
+  "question": "Per què el Consell de Ministres de les Maldives es va reunir a 6 metres de profunditat, al fons del mar?",
+  "textbook": [
+   "Optatiu 3: Recursos, medi ambient i seguretat nacional · Cap. 3: Seguretat ambiental i seguretat nacional · Apartat 4: Canvi climàtic global i seguretat nacional"
+  ],
+  "steps": [
+   "Cicle del carboni",
+   "Dues entrades",
+   "Destí de les emissions",
+   "Més retenció de calor",
+   "Passar el límit",
+   "País",
+   "Resposta",
+   "Avaluació"
+  ],
+  "file": "courses/carbon-step.html",
+  "cover": "covers/carbon-step.webp",
+  "online": "https://perque.noeba.cat/courses/carbon-step.html"
+ },
+ {
+  "slug": "tectonic-step",
+  "subject": "geo",
+  "title": "Formació del relleu estructural",
+  "type": "Principi i fenòmens",
+  "question": "Per què hi ha fòssils de fulles d'arbres de fulla ampla a l'altiplà del Tibet? Quines forces eleven la superfície i la tallen?",
+  "textbook": [
+   "Optatiu 1: Fonaments de geografia física · Cap. 2: El modelatge de les formes del relleu · Apartat 2: Formació del relleu tectònic"
+  ],
+  "steps": [
+   "Corba",
+   "Reparteix",
+   "Inversió",
+   "Desplaça",
+   "Puja i baixa",
+   "Avaluació"
+  ],
+  "file": "courses/tectonic-step.html",
+  "cover": "covers/tectonic-step.webp",
+  "online": "https://perque.noeba.cat/courses/tectonic-step.html"
+ },
+ {
+  "slug": "photoelectric-step",
+  "subject": "phys",
+  "title": "Efecte fotoelèctric",
+  "type": "Principi i experiment",
+  "question": "Per què un mateix feix de llum no pot arrencar cap electró d'un altre metall? De quina propietat de la llum depèn l'energia dels fotoelectrons?",
+  "textbook": [
+   "Optatiu, volum 3 · Cap. 4: Estructura atòmica i dualitat ona-partícula · Apartat 2: Efecte fotoelèctric"
+  ],
+  "steps": [
+   "Coneix el circuit",
+   "Arriba a saturació",
+   "Escombratge invers",
+   "Canvia intensitat",
+   "Canvia freqüència",
+   "Canvia el metall",
+   "Gràfic per a h",
+   "Material real",
+   "Avaluació"
+  ],
+  "file": "courses/photoelectric-step.html",
+  "cover": "covers/photoelectric-step.webp",
+  "online": "https://perque.noeba.cat/courses/photoelectric-step.html"
+ },
+ {
+  "slug": "capacitor-step",
+  "subject": "phys",
+  "title": "Observació de la càrrega i descàrrega d'un condensador",
+  "type": "Principi i experiment",
+  "question": "Què emmagatzema un condensador? En podem mesurar la capacitat amb un sol nombre?",
+  "textbook": [
+   "Obligatori, volum 3 · Cap. 10: Energia en els camps electrostàtics · Apartat 4: Capacitat d'un condensador · Experiment obligatori per a l'alumnat: observar la càrrega i la descàrrega d'un condensador"
+  ],
+  "steps": [
+   "Coneix el material",
+   "Posició 1: càrrega",
+   "Posició 2: descàrrega",
+   "Càrrega a partir de l'àrea",
+   "Dos muntatges",
+   "Registra q-u",
+   "Canvia C i R",
+   "Material real",
+   "Avaluació"
+  ],
+  "file": "courses/capacitor-step.html",
+  "cover": "covers/capacitor-step.webp",
+  "online": "https://perque.noeba.cat/courses/capacitor-step.html"
+ },
+ {
+  "slug": "earth-motion-step",
+  "subject": "geo",
+  "title": "Significat geogràfic del moviment de la Terra",
+  "type": "Principi i fenòmens",
+  "question": "En un mateix instant, per què a Pequín és migdia i a Nova York és mitjanit, i per què els dies d'estiu són més llargs que els d'hivern?",
+  "textbook": [
+   "Optatiu 1: Fonaments de geografia física · Cap. 1: Els moviments de la Terra · Apartat 2: Significat geogràfic dels moviments de la Terra",
+   "Optatiu 1: Fonaments de geografia física · Cap. 1: Els moviments de la Terra · Apartat 1: Rotació i translació de la Terra"
+  ],
+  "steps": [
+   "Rotació",
+   "Translació",
+   "Hemisferis de dia i de nit",
+   "Línia de l'alba i línia del capvespre",
+   "Hora local",
+   "Fusos horaris i línia de canvi de data",
+   "Durada del dia i de la nit",
+   "Altura solar del migdia",
+   "Avaluació · Diferència horària"
+  ],
+  "file": "courses/earth-motion-step.html",
+  "cover": "covers/earth-motion-step.webp",
+  "online": "https://perque.noeba.cat/courses/earth-motion-step.html"
+ },
+ {
+  "slug": "accel-force-step",
+  "subject": "phys",
+  "title": "Experiment: relació de l'acceleració amb la força i la massa",
+  "type": "Principi i fenòmens",
+  "question": "Sense mesurar directament ni la força ni l'acceleració: pots determinar la relació d'a amb F i m amb una cinta de paper i uns pesos ranurats?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 4: Relació entre moviment i força · Apartat 2: Experiment: relació de l'acceleració amb la força i la massa"
+  ],
+  "steps": [
+   "Coneix el material",
+   "Compensa el fregament",
+   "Marca la cinta",
+   "Calcula a",
+   "a i F",
+   "a i m",
+   "Errors",
+   "Avaluació"
+  ],
+  "file": "courses/accel-force-step.html",
+  "cover": "covers/accel-force-step.webp",
+  "online": "https://perque.noeba.cat/courses/accel-force-step.html"
+ },
+ {
+  "slug": "iron-step",
+  "subject": "chem",
+  "title": "El ferro i els seus compostos: conversió entre estats d'oxidació del ferro",
+  "type": "Principi i fenòmens",
+  "question": "El mateix element ferro, per què en un tub d'assaig ara val +2 i ara +3, i amb què podem saber quin dels dos és?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 3: El ferro i els materials metàl·lics · Apartat 1: El ferro i els seus compostos"
+  ],
+  "steps": [
+   "Coneix l'experiment",
+   "Precipitat blanc",
+   "Sense aire",
+   "Comprovació amb KSCN",
+   "L'estat d'oxidació baixa",
+   "L'estat d'oxidació torna a pujar",
+   "Mira a dins",
+   "Estació de detecció del ferro",
+   "Avaluació · Fins a l'estat +2"
+  ],
+  "file": "courses/iron-step.html",
+  "cover": "covers/iron-step.webp",
+  "online": "https://perque.noeba.cat/courses/iron-step.html"
+ },
+ {
+  "slug": "plasmolysis-step",
+  "subject": "bio",
+  "title": "Absorció i pèrdua d'aigua de les cèl·lules vegetals",
+  "type": "Principi i fenòmens",
+  "question": "Les fulles remullades en aigua es tornen turgents, però amb sal perden aigua. Com absorbeixen i perden aigua les cèl·lules vegetals?",
+  "textbook": [
+   "Obligatori 1: Molècules i cèl·lules · Cap. 4: Entrada i sortida de substàncies a la cèl·lula · Apartat 1: Transport passiu · Investigació i pràctica: absorció i pèrdua d'aigua en les cèl·lules vegetals"
+  ],
+  "steps": [
+   "Osmosi",
+   "Capa protoplasmàtica",
+   "Pèrdua d'aigua",
+   "On va l'aigua?",
+   "Recuperació",
+   "Glicerol",
+   "Mesura concentració",
+   "Avaluació"
+  ],
+  "file": "courses/plasmolysis-step.html",
+  "cover": "covers/plasmolysis-step.webp",
+  "online": "https://perque.noeba.cat/courses/plasmolysis-step.html"
+ },
+ {
+  "slug": "electrolysis-step",
+  "subject": "chem",
+  "title": "Principi de l'electròlisi: electròlisi d'una dissolució de clorur de coure(II) i de salmorra saturada",
+  "type": "Principi i fenòmens",
+  "question": "Amb la mateixa font de corrent continu, per què l'electròlisi de la dissolució de clorur de coure(II) dona coure i clor, i la de la salmorra saturada dona hidrogen, clor i hidròxid de sodi?",
+  "textbook": [
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 4: Reaccions químiques i energia elèctrica · Apartat 2: Cel·les electrolítiques · Electròlisi d'una dissolució de clorur de coure(II) · Electròlisi de salmorra saturada"
+  ],
+  "steps": [
+   "Coneix l'experiment",
+   "Connecta la font",
+   "Més temps de corrent",
+   "Mira a dins",
+   "Canvia a salmorra",
+   "La zona del càtode es torna vermella",
+   "Ordre de descàrrega",
+   "Coure com a ànode",
+   "Avaluació · Obtén 29,6 mg de coure"
+  ],
+  "file": "courses/electrolysis-step.html",
+  "cover": "covers/electrolysis-step.webp",
+  "online": "https://perque.noeba.cat/courses/electrolysis-step.html"
+ },
+ {
+  "slug": "ammonia-step",
+  "subject": "chem",
+  "title": "Obtenció i propietats de l'amoníac (amb l'experiment de la font)",
+  "type": "Principi i fenòmens",
+  "question": "Com pot una ampolla d'amoníac fer entrar tota sola l'aigua del vas de precipitats?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 5: Elements no metàl·lics importants en la producció química · Apartat 2: El nitrogen i els seus compostos · L'amoníac i les sals d'amoni"
+  ],
+  "steps": [
+   "Muntatge complet",
+   "Boca del tub",
+   "Tria el dessecant",
+   "Com el recollim",
+   "Quant de temps",
+   "Ompliment i fum blanc",
+   "Fes la font",
+   "Mira a dins",
+   "Avaluació · Fes la font"
+  ],
+  "file": "courses/ammonia-step.html",
+  "cover": "covers/ammonia-step.webp",
+  "online": "https://perque.noeba.cat/courses/ammonia-step.html"
+ },
+ {
+  "slug": "equilibrium-step",
+  "subject": "chem",
+  "title": "Investiga els factors que afecten el desplaçament de l'equilibri químic",
+  "type": "Principi i experiment",
+  "question": "Si canvies una condició, com saps cap a quin costat «es desplaça» l'equilibri?",
+  "textbook": [
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 2: Velocitat de reacció i equilibri químic · Activitat experimental 1: Investigació dels factors que desplacen l'equilibri químic"
+  ],
+  "steps": [
+   "Coneix la taula d'experiments",
+   "Afegir reactiu als tubs de ferro",
+   "Treure reactiu amb pols de ferro",
+   "Afegir base als tubs de crom",
+   "Afegir àcid als tubs de crom",
+   "Dues cubetes, una de calenta i una de freda",
+   "Mira a dins",
+   "Error · Lectura",
+   "Avaluació"
+  ],
+  "file": "courses/equilibrium-step.html",
+  "cover": "covers/equilibrium-step.webp",
+  "online": "https://perque.noeba.cat/courses/equilibrium-step.html"
+ },
+ {
+  "slug": "flame-step",
+  "subject": "chem",
+  "title": "Assaig a la flama i espectre atòmic",
+  "type": "Principi i fenòmens",
+  "question": "Per què cada metall té el seu color a la flama, i per què aquest color es pot considerar un «informe d'anàlisi»?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 2: Elements importants de l'aigua de mar: sodi i clor · Apartat 1: El sodi i els seus compostos · Prova de la flama",
+   "Optatiu 2: Estructura i propietats de la matèria · Cap. 1: Estructura atòmica i propietats · Apartat 1: Estructura atòmica · Espectres atòmics"
+  ],
+  "steps": [
+   "Coneix l'experiment",
+   "Renta el fil de platí",
+   "Doblet del sodi",
+   "El potassi i el vidre de cobalt",
+   "Energia i longitud d'ona",
+   "Emissió i absorció",
+   "Sis metalls",
+   "Avaluació · Identifica el potassi"
+  ],
+  "file": "courses/flame-step.html",
+  "cover": "covers/flame-step.webp",
+  "online": "https://perque.noeba.cat/courses/flame-step.html"
+ },
+ {
+  "slug": "galvanic-step",
+  "subject": "chem",
+  "title": "Pila galvànica: d'una dissolució a dues dissolucions",
+  "type": "Principi i fenòmens",
+  "question": "Dins d'un mateix got d'àcid sulfúric diluït ja hi ha corrent; per què canviar-ho a dos gots i afegir un pont salí?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 6: Reaccions químiques i energia · Apartat 1: Reaccions químiques i canvis d'energia · Activitat experimental 6: Conversió d'energia química en energia elèctrica",
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 4: Reaccions químiques i energia elèctrica · Apartat 1: Piles galvàniques"
+  ],
+  "steps": [
+   "Dos muntatges",
+   "Connecta el fil",
+   "Qui circula",
+   "El preu d'una sola dissolució",
+   "Passa a dues dissolucions",
+   "Treu el pont salí",
+   "Mira a dins",
+   "Concentració",
+   "Avaluació · Munta-ho"
+  ],
+  "file": "courses/galvanic-step.html",
+  "cover": "covers/galvanic-step.webp",
+  "online": "https://perque.noeba.cat/courses/galvanic-step.html"
+ },
+ {
+  "slug": "conductivity-step",
+  "subject": "chem",
+  "title": "Ionització dels electròlits, conductivitat de les solucions i naturalesa de les reaccions iòniques",
+  "type": "Principi i fenòmens",
+  "question": "La mà és la mateixa quan és seca i quan és molla. Per què és més fàcil rebre una descàrrega amb la mà molla?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 1: La matèria i els seus canvis · Apartat 2: Reaccions iòniques",
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 3: Reaccions iòniques i equilibris en dissolució aquosa · Apartat 1: Equilibri d'ionització · Electròlits forts i febles"
+  ],
+  "steps": [
+   "Coneix la taula",
+   "Sec i fos",
+   "Dissolt en aigua",
+   "Aigua i sacarosa",
+   "Forts i febles",
+   "Afegeix àcid sulfúric diluït",
+   "Mira a dins",
+   "Valorant erroni",
+   "Avaluació · Troba el punt final"
+  ],
+  "file": "courses/conductivity-step.html",
+  "cover": "covers/conductivity-step.webp",
+  "online": "https://perque.noeba.cat/courses/conductivity-step.html"
+ },
+ {
+  "slug": "energy-step",
+  "subject": "phys",
+  "title": "Experiment: verificació de la conservació de l'energia mecànica",
+  "type": "Principi i fenòmens",
+  "question": "Quan el pes cau, la pèrdua d'energia potencial gravitatòria es converteix exactament en guany d'energia cinètica? Una cinta de paper pot servir per mesurar-ho?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 8: Llei de conservació de l'energia mecànica · Apartat 5: Experiment: verificació de la conservació de l'energia mecànica"
+  ],
+  "steps": [
+   "Coneix el material",
+   "Primer connecta, després deixa anar",
+   "Tria el punt",
+   "Mesura h i calcula v",
+   "Anota i fes el gràfic",
+   "Canvia el pes",
+   "Errors",
+   "Avaluació"
+  ],
+  "file": "courses/energy-step.html",
+  "cover": "covers/energy-step.webp",
+  "online": "https://perque.noeba.cat/courses/energy-step.html"
+ },
+ {
+  "slug": "soil-step",
+  "subject": "geo",
+  "title": "Factors principals de formació del sòl i observació del perfil",
+  "type": "Principi i fenòmens",
+  "question": "Per què els sòls del nord-est són negres i fèrtils i els del sud són més pobres?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 5: Vegetació i sòl · Apartat 2: El sòl"
+  ],
+  "steps": [
+   "Secció",
+   "Material originari",
+   "Éssers vius",
+   "Clima",
+   "Relleu",
+   "Temps",
+   "Humans",
+   "Avaluació"
+  ],
+  "file": "courses/soil-step.html",
+  "cover": "covers/soil-step.webp",
+  "online": "https://perque.noeba.cat/courses/soil-step.html"
+ },
+ {
+  "slug": "projectile-step",
+  "subject": "phys",
+  "title": "Experiment: característiques del tir horitzontal",
+  "type": "Principi i fenòmens",
+  "question": "Amb només una canal inclinada i una placa, pots separar el tir horitzontal en dos moviments i mesurar la velocitat inicial?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 5: Moviment de projectils · Apartat 3: Experiment: característiques del tir horitzontal"
+  ],
+  "steps": [
+   "Coneix el material",
+   "Primer, vertical",
+   "Extrem horitzontal",
+   "Marca quatre punts",
+   "Troba l'interval",
+   "Horitzontal: MRU",
+   "Canvia de marca",
+   "Dos excessos",
+   "Avaluació"
+  ],
+  "file": "courses/projectile-step.html",
+  "cover": "covers/projectile-step.webp",
+  "online": "https://perque.noeba.cat/courses/projectile-step.html"
+ },
+ {
+  "slug": "transport-step",
+  "subject": "bio",
+  "title": "Transport a través de la membrana",
+  "type": "Principi i fenòmens",
+  "question": "En una mateixa membrana cel·lular, per què l'oxigen la travessa sol, la glucosa necessita diverses proteïnes que l'ajudin i el K⁺ fins i tot entra contra el gradient de concentració?",
+  "textbook": [
+   "Obligatori 1: Molècules i cèl·lules · Cap. 4: Entrada i sortida de substàncies a la cèl·lula"
+  ],
+  "steps": [
+   "Difusió simple",
+   "Permeabilitat selectiva",
+   "Difusió facilitada",
+   "Proteïnes transportadores i de canal",
+   "Transport actiu",
+   "Endocitosi i exocitosi",
+   "Resum",
+   "Avaluació"
+  ],
+  "file": "courses/transport-step.html",
+  "cover": "covers/transport-step.webp",
+  "online": "https://perque.noeba.cat/courses/transport-step.html"
+ },
+ {
+  "slug": "nitric-lab-step",
+  "subject": "chem",
+  "title": "Propietats de l'àcid nítric concentrat i diluït, i conversió dels òxids de nitrogen",
+  "type": "Principi i fenòmens",
+  "question": "Si en els dos casos és coure amb àcid nítric, per què un flascó treu un gas marró vermellós i l'altre no té cap color?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 5: Elements no metàl·lics importants en la producció química · Apartat 2: El nitrogen i els seus compostos · Monòxid i diòxid de nitrogen; àcid nítric"
+  ],
+  "steps": [
+   "Muntatge complet",
+   "El fil de coure s'enfonsa",
+   "Canvi a àcid nítric diluït",
+   "Canvi a làmina de ferro",
+   "On va a parar el gas residual",
+   "El flascó bru",
+   "Introdueix aire",
+   "Agita i mira dins",
+   "Avaluació · Converteix-lo"
+  ],
+  "file": "courses/nitric-lab-step.html",
+  "cover": "covers/nitric-lab-step.webp",
+  "online": "https://perque.noeba.cat/courses/nitric-lab-step.html"
+ },
+ {
+  "slug": "centripetal-step",
+  "subject": "phys",
+  "title": "Investiga la relació de la força centrípeta amb el radi, la velocitat angular i la massa",
+  "type": "Principi i fenòmens",
+  "question": "Aquest aparell de demostració de manovella només et dona el nombre de divisions de dues escales; es pot fer servir per mesurar la relació quantitativa entre F i m, r, ω?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 6: Moviment circular · Apartat 2: Força centrípeta · Experiment: relació de la força centrípeta amb el radi, la velocitat angular i la massa"
+  ],
+  "steps": [
+   "Coneix l'aparell de demostració",
+   "Autocomprovació de l'aparell",
+   "Relació amb la massa",
+   "Relació amb el radi",
+   "Relació amb la velocitat angular",
+   "Les tres relacions en una sola fórmula",
+   "Errors i operacions incorrectes",
+   "Avaluació · ω va al quadrat"
+  ],
+  "file": "courses/centripetal-step.html",
+  "cover": "covers/centripetal-step.webp",
+  "online": "https://perque.noeba.cat/courses/centripetal-step.html"
+ },
+ {
+  "slug": "self-induction-step",
+  "subject": "phys",
+  "title": "Autoinducció i corrents de Foucault",
+  "type": "Principi i experiment",
+  "question": "Si la bobina només té unes quantes espires més de fil de coure, per què les dues bombetes no llueixen igual? Si l'interruptor ja està obert, per què la bombeta encara pot tornar a lluir un moment?",
+  "textbook": [
+   "Optatiu, volum 2 · Cap. 2: Inducció electromagnètica · Apartat 4: Inducció mútua i autoinducció",
+   "Optatiu, volum 2 · Cap. 2: Inducció electromagnètica · Apartat 3: Corrents de Foucault, amortiment electromagnètic i accionament electromagnètic"
+  ],
+  "steps": [
+   "Coneix el material",
+   "Autoinducció en connectar",
+   "Autoinducció en desconnectar",
+   "Corba I-t",
+   "Canvia de bobina",
+   "Material real",
+   "Corrents de Foucault",
+   "Esmorteïment electromagnètic",
+   "Avaluació"
+  ],
+  "file": "courses/self-induction-step.html",
+  "cover": "covers/self-induction-step.webp",
+  "online": "https://perque.noeba.cat/courses/self-induction-step.html"
+ },
+ {
+  "slug": "emf-step",
+  "subject": "phys",
+  "title": "Mesura de la força electromotriu i de la resistència interna d'una font",
+  "type": "Principi i experiment",
+  "question": "La força electromotriu i la resistència interna d'una pila seca vella: com es poden «mesurar» amb un voltímetre, un amperímetre i una resistència variable de cursor? I si es canvia el muntatge, el resultat continua sent el mateix?",
+  "textbook": [
+   "Obligatori, volum 3 · Cap. 12: Energia elèctrica i conservació de l'energia · Apartat 3: Experiment: mesura de la força electromotriu i la resistència interna d'una pila"
+  ],
+  "steps": [
+   "Coneix el muntatge",
+   "Primer al màxim",
+   "Fes més mesures",
+   "Fes la gràfica U-I",
+   "Origen de l'eix vertical",
+   "Només dues sèries",
+   "Canvia el muntatge",
+   "Anàlisi de l'error",
+   "Avaluació"
+  ],
+  "file": "courses/emf-step.html",
+  "cover": "covers/emf-step.webp",
+  "online": "https://perque.noeba.cat/courses/emf-step.html"
+ },
+ {
+  "slug": "impulse-step",
+  "subject": "bio",
+  "title": "Generació i conducció de l'impuls nerviós",
+  "type": "Principi i fenòmens",
+  "question": "Sortir abans de 0.1 s després del tret es considera sortida falsa (llibre p.27). Com es propaga l'excitació pel cos?",
+  "textbook": [
+   "Optatiu 1: Homeòstasi i regulació · Cap. 2: Regulació nerviosa · Apartat 3: Generació i conducció de l'impuls nerviós"
+  ],
+  "steps": [
+   "Impuls nerviós",
+   "Potencial de repòs",
+   "Potencial d'acció",
+   "Corrent local",
+   "Sinapsi",
+   "Un sentit i retard",
+   "Cocaïna",
+   "Na⁺ extracel·lular",
+   "Avaluació"
+  ],
+  "file": "courses/impulse-step.html",
+  "cover": "covers/impulse-step.webp",
+  "online": "https://perque.noeba.cat/courses/impulse-step.html"
+ },
+ {
+  "slug": "bromine-step",
+  "subject": "chem",
+  "title": "Obtenció de brom de l'aigua de mar: arrossegament amb aire",
+  "type": "Procés industrial",
+  "question": "Si l'aigua de mar només conté 65 mg/L de brom, com n'obtenim una ampolla de brom líquid?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 8: Química i desenvolupament sostenible · Apartat 1: Aprofitament dels recursos naturals · Aprofitament dels recursos de l'aigua de mar"
+  ],
+  "steps": [
+   "Planta sencera",
+   "Acidificació",
+   "Oxidació",
+   "Arrossegament",
+   "Absorció",
+   "Purificació",
+   "Avaluació"
+  ],
+  "file": "courses/bromine-step.html",
+  "cover": "covers/bromine-step.webp",
+  "online": "https://perque.noeba.cat/courses/bromine-step.html"
+ },
+ {
+  "slug": "thermal-step",
+  "subject": "geo",
+  "title": "Circulació tèrmica atmosfèrica",
+  "type": "Principi i fenòmens",
+  "question": "Per què el vent a les ribes de l'estret de Taiwan canvia de sentit al llarg del dia?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 2: L'atmosfera terrestre · Apartat 2: Escalfament de l'atmosfera i moviments atmosfèrics · Circulació tèrmica"
+  ],
+  "steps": [
+   "Diferència tèrmica",
+   "En altura",
+   "Prop del sòl",
+   "Tanca el circuit",
+   "Intensitat",
+   "Brisa marina",
+   "Brisa terrestre",
+   "Illa de calor",
+   "Avaluació"
+  ],
+  "file": "courses/thermal-step.html",
+  "cover": "covers/thermal-step.webp",
+  "online": "https://perque.noeba.cat/courses/thermal-step.html"
+ },
+ {
+  "slug": "mitosis-step",
+  "subject": "bio",
+  "title": "Observació de la mitosi de les cèl·lules del teixit de la zona meristemàtica de l'àpex radical",
+  "type": "Principi i fenòmens",
+  "question": "En un àpex radical de ceba, quines cèl·lules s'estan dividint? Quant triga cadascuna a completar una divisió?",
+  "textbook": [
+   "Obligatori 1: Molècules i cèl·lules · Cap. 6: El cicle vital de la cèl·lula · Apartat 1: Proliferació cel·lular · Investigació i pràctica: observació de la mitosi en cèl·lules del meristema de l'arrel"
+  ],
+  "steps": [
+   "Muntatge",
+   "Localització de la zona meristemàtica",
+   "Profase",
+   "Metafase",
+   "Anafase",
+   "Telofase",
+   "Recompte",
+   "Càlcul de la durada",
+   "Avaluació"
+  ],
+  "file": "courses/mitosis-step.html",
+  "cover": "covers/mitosis-step.webp",
+  "online": "https://perque.noeba.cat/courses/mitosis-step.html"
+ },
+ {
+  "slug": "sodium-step",
+  "subject": "chem",
+  "title": "Propietats del sodi metàl·lic (inclosa l'extinció d'incendis de sodi)",
+  "type": "Principi i fenòmens",
+  "question": "Per què cal conservar un petit metall argentat en querosè i, si crema, no s'hi pot tirar ni aigua?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 2: Elements importants de l'aigua de mar: sodi i clor · Apartat 1: El sodi i els seus compostos · Un metall actiu: el sodi"
+  ],
+  "steps": [
+   "Coneix l'experiment",
+   "L'argentat s'apaga",
+   "En querosè",
+   "Escalfa i crema",
+   "Sura, es fon, es mou, xiula i torna vermella la dissolució",
+   "Mida del sodi",
+   "Mira a dins",
+   "Extinció del foc",
+   "Avaluació"
+  ],
+  "file": "courses/sodium-step.html",
+  "cover": "covers/sodium-step.webp",
+  "online": "https://perque.noeba.cat/courses/sodium-step.html"
+ },
+ {
+  "slug": "sulfur-step",
+  "subject": "chem",
+  "title": "Propietats del sofre, el diòxid de sofre i l'àcid sulfúric concentrat; transformacions entre estats d'oxidació",
+  "type": "Principi i fenòmens",
+  "question": "Com pot el mateix sofre ser un sòlid groc, descolorir la fucsina o incorporar-se al ferro en pols?",
+  "textbook": [
+   "Obligatori, volum 2 · Cap. 5: Elements no metàl·lics importants en la producció química · Apartat 1: El sofre i els seus compostos",
+   "Obligatori, volum 2 · Cap. 5: Elements no metàl·lics importants en la producció química · Activitat experimental 5: Transformació de substàncies de sofre amb diferents estats d'oxidació"
+  ],
+  "steps": [
+   "Muntatge complet",
+   "Sofre en pols + ferro en pols",
+   "Sulfúric conc./Cu",
+   "Concentrat/diluït",
+   "Recupera amb calor",
+   "Tres tubs i cotó",
+   "Convergència a zero",
+   "Mira a dins · Ascensor d'estats d'oxidació",
+   "Avaluació · Blanqueja del tot"
+  ],
+  "file": "courses/sulfur-step.html",
+  "cover": "covers/sulfur-step.webp",
+  "online": "https://perque.noeba.cat/courses/sulfur-step.html"
+ },
+ {
+  "slug": "wind-step",
+  "subject": "geo",
+  "title": "El moviment horitzontal de l'atmosfera: el vent",
+  "type": "Principi i fenòmens",
+  "question": "Al mapa del temps, per què el vent no bufa en línia recta de l'alta pressió cap a la baixa?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 2: L'atmosfera terrestre · Apartat 2: Escalfament de l'atmosfera i moviments atmosfèrics · Moviment horitzontal de l'atmosfera: el vent"
+  ],
+  "steps": [
+   "Isòbares",
+   "Força del gradient",
+   "Desviació de Coriolis",
+   "Vent d'altura",
+   "Prop del sòl",
+   "Hemisferi sud",
+   "Densitat",
+   "Avaluació"
+  ],
+  "file": "courses/wind-step.html",
+  "cover": "covers/wind-step.webp",
+  "online": "https://perque.noeba.cat/courses/wind-step.html"
+ },
+ {
+  "slug": "corrosion-step",
+  "subject": "chem",
+  "title": "Corrosió per absorció d'oxigen i disseny de pegats tèrmics",
+  "type": "Principi i fenòmens",
+  "question": "Si el ferro s'oxida tan lentament, com se'n pot fer un pegat tèrmic de 45 ℃ o més? I com podem fer servir el mateix principi per protegir el ferro de l'oxidació?",
+  "textbook": [
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 4: Reaccions químiques i energia elèctrica · Apartat 3: Corrosió i protecció dels metalls · Recerca i pràctica: disseny i elaboració d'una escalfadora adhesiva"
+  ],
+  "steps": [
+   "Quatre estacions",
+   "Per què puja?",
+   "Paper del carboni",
+   "Canvi a medi àcid",
+   "Mira a dins",
+   "Calor del pegat",
+   "El cost de tapar-lo",
+   "El zinc se sacrifica",
+   "Avaluació · Dissenya l'escalfadora"
+  ],
+  "file": "courses/corrosion-step.html",
+  "cover": "covers/corrosion-step.webp",
+  "online": "https://perque.noeba.cat/courses/corrosion-step.html"
+ },
+ {
+  "slug": "enzyme-step",
+  "subject": "bio",
+  "title": "Condicions que afecten l'activitat enzimàtica",
+  "type": "Principi i fenòmens",
+  "question": "Per què el mateix enzim, posat en aigua bullint, ja no es pot recuperar mai més, i en aigua amb gel encara es pot «despertar»?",
+  "textbook": [
+   "Obligatori 1: Molècules i cèl·lules · Cap. 5: Subministrament i ús d'energia a la cèl·lula · Apartat 1: Els enzims, que redueixen l'energia d'activació · Investigació i pràctica: condicions que afecten l'activitat enzimàtica"
+  ],
+  "steps": [
+   "Coneix la taula d'experiments",
+   "Temperatura",
+   "pH",
+   "Efecte irreversible de la calor",
+   "Recuperació després del fred",
+   "Mira a dins",
+   "Massa àcid o massa bàsic",
+   "Avaluació · Fes de tècnic de laboratori"
+  ],
+  "file": "courses/enzyme-step.html",
+  "cover": "covers/enzyme-step.webp",
+  "online": "https://perque.noeba.cat/courses/enzyme-step.html"
+ },
+ {
+  "slug": "chlor-alkali-step",
+  "subject": "chem",
+  "title": "Indústria del clor i la sosa (clor-àlcali)",
+  "type": "Procés industrial",
+  "question": "Amb la mateixa electricitat, com s'obté més sosa càustica amb menys consum d'energia i sense accidents?",
+  "textbook": [
+   "Optatiu 1: Principis de les reaccions químiques · Cap. 4: Reaccions químiques i energia elèctrica · Apartat 2: Cel·les electrolítiques · Electròlisi de salmorra saturada"
+  ],
+  "steps": [
+   "Tres productes",
+   "Primer rentar la sal",
+   "Cel·la en secció",
+   "Dins la membrana",
+   "Afegir més corrent",
+   "Ajustar la temperatura",
+   "Treure la membrana",
+   "Avaluació de torn"
+  ],
+  "file": "courses/chlor-alkali-step.html",
+  "cover": "covers/chlor-alkali-step.webp",
+  "online": "https://perque.noeba.cat/courses/chlor-alkali-step.html"
+ },
+ {
+  "slug": "hou-soda-step",
+  "subject": "chem",
+  "title": "Procés Hou",
+  "type": "Procés industrial",
+  "question": "Com pots obtenir carbonat de sodi a partir de sal i amoníac i, de passada, un adob nitrogenat?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 2: Elements importants de l'aigua de mar: sodi i clor · Apartat 1: El sodi i els seus compostos · Context: el mètode de Hou per fabricar sosa"
+  ],
+  "steps": [
+   "De sal a carbonat",
+   "Primer amoníac, després CO₂",
+   "Per què cristal·litza",
+   "Temperatura de carbonatació",
+   "Dos fluxos",
+   "Calcina",
+   "Aigües mares i retorn",
+   "Fes de cap de torn"
+  ],
+  "file": "courses/hou-soda-step.html",
+  "cover": "covers/hou-soda-step.webp",
+  "online": "https://perque.noeba.cat/courses/hou-soda-step.html"
+ },
+ {
+  "slug": "current-field-step",
+  "subject": "phys",
+  "title": "Camp magnètic del corrent",
+  "type": "Principi i fenòmens",
+  "question": "El camp magnètic no es veu ni es toca. Com el podem dibuixar i determinar-ne el sentit?",
+  "textbook": [
+   "Obligatori, volum 3 · Cap. 13: Introducció a la inducció electromagnètica i les ones electromagnètiques · Apartat 1: Camp magnètic i línies de camp"
+  ],
+  "steps": [
+   "Llimadures a la vista",
+   "Circumferències concèntriques",
+   "Mà dreta i sentit",
+   "Densitat = intensitat",
+   "Travessa i torna",
+   "Suma d'espires",
+   "Disminució axial",
+   "Interior uniforme",
+   "Avaluació · Troba la boca del tub"
+  ],
+  "file": "courses/current-field-step.html",
+  "cover": "covers/current-field-step.webp",
+  "online": "https://perque.noeba.cat/courses/current-field-step.html"
+ },
+ {
+  "slug": "brownian-step",
+  "subject": "phys",
+  "title": "Moviment brownià i difusió",
+  "type": "Principi i fenòmens",
+  "question": "Si no veiem les molècules, com sabem que es mouen desordenadament?",
+  "textbook": [
+   "Optatiu, volum 3 · Cap. 1: Teoria cinètica molecular · Apartat 1: Continguts bàsics de la teoria cinètica molecular"
+  ],
+  "steps": [
+   "Mira com es mou",
+   "Un punt cada 30 s",
+   "Més temps, més lluny",
+   "Més petit, més evident",
+   "Més calent, més intens",
+   "Producte dels xocs",
+   "Un cas no és l'estadística",
+   "Difusió: de més a menys concentració",
+   "Avaluació · Fes que es mogui més"
+  ],
+  "file": "courses/brownian-step.html",
+  "cover": "covers/brownian-step.webp",
+  "online": "https://perque.noeba.cat/courses/brownian-step.html"
+ },
+ {
+  "slug": "water-cycle-step",
+  "subject": "geo",
+  "title": "Procés i significat geogràfic del cicle de l'aigua",
+  "type": "Principi i fenòmens",
+  "question": "Els rius desemboquen sense parar al mar. Per què l'aigua del mar no augmenta?",
+  "textbook": [
+   "Obligatori, volum 1 · Cap. 3: L'aigua a la Terra · Apartat 1: Cicle de l'aigua"
+  ],
+  "steps": [
+   "Panoràmica",
+   "Evaporació",
+   "Transpiració",
+   "Transport",
+   "Infiltració",
+   "Tres tipus",
+   "Camp de sorra i grava",
+   "Significat",
+   "Avaluació"
+  ],
+  "file": "courses/water-cycle-step.html",
+  "cover": "covers/water-cycle-step.webp",
+  "online": "https://perque.noeba.cat/courses/water-cycle-step.html"
+ },
+ {
+  "slug": "circulation-step",
+  "subject": "geo",
+  "title": "Cinturons de pressió, cinturons de vents i circulació en tres cèl·lules",
+  "type": "Principi i fenòmens",
+  "question": "Per què la flota de Magallanes va tenir trams amb vent en contra i trams amb vent a favor, i a prop dels 30° S gairebé no avançava?",
+  "textbook": [
+   "Optatiu 1: Fonaments de geografia física · Cap. 3: Els moviments de l'atmosfera · Apartat 2: Cinturons de pressió i de vents"
+  ],
+  "steps": [
+   "Baixes pressions equatorials",
+   "30° descens",
+   "60° ascens",
+   "Set cinturons i sis vents",
+   "Desplaçament estacional",
+   "Distribució de mars i terres",
+   "Avaluació · Magallanes"
+  ],
+  "file": "courses/circulation-step.html",
+  "cover": "covers/circulation-step.webp",
+  "online": "https://perque.noeba.cat/courses/circulation-step.html"
+ }
 ]
